@@ -4,4 +4,4 @@
 
 
 
-![](images/Web 1920 – 1.png)
+![](images/mockup-1.png)
