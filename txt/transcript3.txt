@@ -1,0 +1,232 @@
+--- Final result received. Reason: RecognizedSpeech. --- 
+Um?
+Review and then we'll move into just a project overview.
+This is what's on the charter. Frank the CFO is going to say a few words on this, but everyone has seen this. It's just to reiterate that.
+Hum.
+Not only every implementing scanman, but we're also looking to standardize our processes, and they have already seen the severe topics that I've sent you sent. So they have said that's a good place to start.
+And that we should be empowered to make change and decisions.
+We're not just keeping something status quo because that's what we've always done it, so that's kind of the message. Hopefully we here.
+And then I just through the schedule up, so will just quickly touch on this an.
+If there's anyone that wants to come to other sessions, they are welcome to.
+And then I'm also going to say here though, just talking points that we need to be flexible. So if we go off on a bit of a tangent, but it's valid, it makes sense we're going to do that just to make the best use of our time. I'm going to talk about.
+James actually asked about reporting what are reporting strategy is for.
+AP automation and I said that that was a good thing to ask. While we had certain people room, so I'm just going to take that onto the end of the kickoff for the start of the next one. So we have Brian who is our CIO.
+Lauren and Joel in the room because they are.
+The Leadership Group and can speak to what are reporting strategy is, which I believe is it changing a little bit. So we are trying to implement in Corda for supply chain. I think it's coming down later, so that may change.
+An.
+Some stuff in regards to just because we have reporting already built doesn't mean that we have to keep doing something that doesn't make sense.
+But I'll let them.
+I'll talk about the daily summary recap email that sorry session that I have found it 430 mountain standard everyday. It's optional if people don't call when we don't do it, but it's just a way of including everyone that can't come to the other stuff.
+And then the other thing here is just noting that the procure to pay as a whole is very broad, but we're only concentrating on IDs material to AP automation. So something comes up, it's valid or parking lot. It probably will get thrown into a different project. Or if someone insists higher than eat in the organization that it needs to be in scope, then that means the scope of work change. We need more money, we need more time, so hopefully we don't get to that. Hopefully we get to.
+Let's add it somewhere else, but.
+Hum.
+So that's kind of that bit and then decisions, so the intent is to make decisions this week. If they cannot be made, they'll be assigned a business resource and agreed apon date no later than one week. I'm not messing around here, we need to get moving here, so I'll give you one week to talk to you need. And then I already have a project steering committee meeting scheduled for Thursday after you guys leave. So any I will be describing the sessions.
+So as we make decisions, I'm going to document them, and if we can't make a decision, I will be tracking who is with and anything around that and that will be shown at our steering committee meeting on January 30th, so they're going to see decision three is with Marten. Decision for is with Melissa and there on the hub. And yeah so.
+Timing was good.
+I couldn't get a steering committee meeting next week.
+I could only get one of the week after, so I thought, well, why don't we just do it this week? It's fresh.
+And by Thursday afternoon were done, so that's the decisions I showed this to Joanne, who's my boss PMO director. She says I like how we are doing that. Let's force it so it's also the document that we will make.
+You to approve it OK, and only when it's approved and will start with the configuration. So we don't want to stretch that out perfect.
+So deliverables of this week, so we want to have to be process mapping discussed, but the actual documentation will be completed later.
+We don't need to get that done this week, and we probably won't have time, nor will we have all of the decisions made. But that's the point of these workshops is to talk about what we want it to be, and I'll sort of document. High level depends on it. Do you still want invoices though? But I know I want to make clear what kind of invoices I want or something. No, no, just that everyone knows what to deliver, right? So I will need them eventually, right? Invoices? Just not for the first part. Project sets for training the OCR. OK, so.
+But I'd like to make sure that when you go home, you take those samples with you. Yeah, it's it's. I want some digits.
+Yeah, but I'd like to get AP started on. Yeah, yeah.
+What I've been reading is that I want.
+I thought I would like to see some examples. I saw that there are invoices that have like twenty 3000 pages. GFF. Yes yeah. So I would like to see examples of those. I see that there are invoices printed on both sides so I would like to see examples of those so GF Sartell? It's it's probably could be like 100 pages. Yeah so and we get that digitally. So callous. We want to get GFS. We want to get an.
+I saw that there are some.
+Supplier sending multiple invoices online invoice.
+I don't. I can't think of a vendor off top of my head, but that will like that. Yeah, so those are things that I saw from the from the analyzer that you already made, so that's.
+But will have an Andheri Lean in here and they'll be able to get those vendors. I'd like to see those not requirement done by Friday. There's no reason why it can't be.
+I I just.
+I put it on here because you mentioned it earlier, so maybe when we talk about this you can add some comments on what. Like maybe we only need to have a plan. That's what it is. An email them by a certain date so they are ready for it, just that they know that they have to deliver invoices. And I think that we in the contract it says 150.
+OK, so you need to.
+Different vendors.
+That's something that you need to decide about it. We have customers that sound like 150 invoices from the same, which is a stupid thing.
+So template.
+Yeah, so that's what I want. That's why I want to discuss it. But that's something that you shouldn't do because then it's easy for us because we have. No, we haven't.
+I can work with an and carrying on that and maybe in the morning. Make sure that we've got somebody designated to that because Monday is going to come here pretty soon and they're not going to do anything next week, so I really want them working this week on it and this like in the kickoff, it's only half an hour and it's very high level so will mention it quickly because there's going to be a lot of people there like leadership, but then will work on it later. Yeah, decisions library documents, so this will include decisions made and decisions upstanding go live date for them. I think you've got some.
+Ideally we would like to discuss election.
+So this document from you I can show you my picture and then maybe a tentative plan for a pack alive. I'm not super concerned with this just because.
+It's so far in the future and we have trouble planning stuff like that, but what the steering committee is concerned with is after we implement now, how much work is required for a pack? Do we need to bring in consultants again or can we just roll it out? So have a discussion about that and then really based on how that discussion goes they can do it whenever they want.
+If you want to have it the same.
+If you're going to standardize anyway, it should be the same thing. If they still have their differences, then it would take some extra effort.
+Number of invoices.
+And do it at the same time.
+And that that could very well be what we want to do. Just just 'cause we've got the resources here, and so it's just a conversation that we can.
+Separate email addresses they do in the email boxes, and that's a difference and then, and that's fine, that's fine, I'm sure. Well, I don't know.
+What I want to do for the noun is the US has its own mailbox because the purchasers want to see the invoice first. So for now, because all of their processing is done here, there's only going to be one mailbox for now. There will be one mailbox for a path, but we need to stay on top of a pack using that mailbox because when we put a shared services.
+We're going to become one.
+But I think I'm fine with leaving. I know I'm in a pack mailbox, but man will not have multiple mailbox. OK, Yep.
+We can chalk that up to just the differences of when people live, unless we end up well later this week will sit because it's going to be two different Golive Strategies. You can't have a packs coming in.
+Here if yeah, that's right, but is the OCR reader is just going to pick up everything right? So the older is going to pick up everything that's in apvendor.com or we may create a new line for it.
+Right, and then as thing as they as we know, they're successful. They move into the new box and then we can track to see all the old stuff they have to go into the new box first.
+With the email books, the best thing to do I don't know how your email books looks, but what you normally see is that your spice and everything to the not only invoices but also other things. Yeah, so keep that invoices for everything and then set up a new one just for scanman you.
+And then have have one of the employees to decide up. This is an invoice. This is not an invoice, so the invoice forward it to the Scanman.
+Invoice as a manual process.
+Yes, because someone needs to look. Yeah, I don't know. Yeah, I think so and I like to see it at some point in time that the vendors send them in there and we don't even have to touch it now. I don't know we've got.
+I think that's something they often do, and then you just have to check that mailbox that you said set up for scanman for like non invoice files an empty.
+Well, basically will feel too. That's fine, that's fine, but it just means that there needs to be some manual verification. That's like non PDF files are found, an empty mailbox or empty meals. So if a customer sent you an email about an invoice but there's no attachment that you can check that.
+That box everyday.
+To see what's in there.
+Moving day USS Denver office area mailbox up here that's going to be a huge thing for them because they basically put a penny in their peel and wait for the invoice commit board. In most cases that's they don't generate that peo until they see that invoice in that box.
+So we're not going to see it anymore. It's going to be here and they're going to have failures. Did you know charlottes on vacation this week?
+So we have no US people.
+Nothing.
+She has nothing to do with AP, so who's going to? We're going to be able to make a decision or not.
+Well, they have daring lines from Lancaster is the peel person down there and you have Ashley in this meeting. I hate you. Should he records up here, there are no AP people in the USA there is no AP processing in the US for another. Decisions are made down there.
+Do we have an AP fluids or whatever? Yeah, but just for like here but but all of US is done out of here so it's fine here. Just wanted to throw that out there 'cause there is US specific person on the project but I got an out of office from her but then again I have no idea why she was on the project is nothing to do with AP right?
+Because sometimes it's uh.
+Will change for them.
+Yeah, well, the work won't change for the AP clerks. The work is going to change for the purchasers who are waiting for the invoice to be in their hands to set up the P. Oh, that's what it maybe. Even just reviewing the invoice or that inbox like that something you they would know if they refuse their inbox everyday. That's how they do side go. Pick up there invoice. From there the AP clerks go into the inbox everyday pick up there. The vendors who are there's and deal with those invoices.
+It will be automatically yet, so it's also change if there's things that you don't have to do anymore, right? But they they still need to look in the mailbox to see if there vendors I've sent him non PDF or non invoice no but this is what you see in skimming.
+This way I want to be extra new books in the tree.
+So you have a. Now you will see that scanman.
+All the documents will automatically go to Scanman.
+And Scanman has a wood base and then you will see all the all the documents will be presented there. OK, I'm fine with that. I just I still want to be rid of the mailbox in the US that they have insisted on getting the invoices before they send him up here that they get the invoice and then they print it and send it to us right? Two questions. The inboxes discussion is that.
+Where would that fall on our week?
+I think it should be sooner than later like I just like. This is kind of what we've got. I'm going to. I'm going to print this off till can see, yeah.
+Stupid.
+Like is it? Is it no no like because like anything that's on this deliverable, it slide and then just the things we've just naturally have come up like we need to make sure, like I don't have a checklist that yeah, we talked about that and then you might need a quick demo. Two of how it looks like if we don't understand.
+Yeah, we don't do the demo. Can't no.
+Can you show us?
+Screenshots or anything, or draw it out somehow that can we?
+Map it out.
+Put on the board.
+So can we get rid of all that?
+You know, like just it worked. Yeah, that towel. How do we get the group to buy any application?
+Something.
+Books discussion.
+Because it it?
+It's nothing to do with your AP trips or AP Department, it's just something that they need to do is technical OK, so we have a technical discussion tomorrow morning earlier in it, so you may have to.
+Give me the business person there and make that call.
+Common to 10 OK.
+So you need to move me on the schedule so I don't talk until 10.
+Open is fine because we have a lot of other technical stuff together, so that's fine, that's fine.
+I could probably physically in the office by 10:45.
+And we've got some time. If we need to come back to something, I'm going to be the official scribe, which is why I can't facilitate because I'll be taking notes and stuff like that, but.
+Yeah, that's fine. I'm going to go print off these schedules so you have them and then as.
+We something comes up like we can do it there, but you can also make your notes and just make sure that we can come to be to it because.
+I just think that even in this last.
+Few minutes we've had a good conversation and I want to make sure we slotted in there somewhere.
+OK.
+So really, that's what I want to accomplish in this week. Is there anything else you guys need like?
+Maybe I should add a bullet before the to be process and it's just.
+Validate the as is processed.
+Validate as give you guys an opportunity to ask any questions that you have. You have all the documentation, but I'm sure there's questions which we would. We will also be doing during every session necessary.
+Yeah, I'll just leave it at that. Something similar comes up. Yeah, yeah, just.
+Looking in there.
+OK.
+All right, and then that's it. So it's it's a quick kick off, but I don't want it to get out of control and then we can just get right into the first session which is on.
+I know you said there wasn't a lot on the 1st topic.
+The JD foundations or something? Yeah, that's why I wanted to have the access so I can just have a look myself and then.
+Well, you know if did you get it yet? Did you know you're working on it? And I interrupted you, OK?
+And get you an opportunity to get back into that. I'm going to try and.
+I will keep in mind OK and we just have a lot. Did not hear that.
+But you'll be on the screen.
+So we'll see everything.
+I don't. I do you think that my user ID for JD Edwards will be all over that open now?
+You have a daughter in the JD Edwards right now. Its first initial and last name, right?
+They did not do that ticket right.
+And then the passwords it supposed to be that really crazy won the Alaska to change it.
+It should be.
+It's it's.
+Not working.
+Did you put in the password? Yes.
+He tried putting that severe.
+Shouldn't be.
+It is but just.
+Strange.
+Password.
+Set up that way.
+There's both. They tried to make her JD password in our Wi-Fi past better or network password exactly the same, but when you sign into JD E, signing it with only your first initial last name.
+It is not welcome by any coincidence.
+No, not with our security team.
+It takes days for them to get it right.
+Great Nicole.
+Pullman now she's in Houston.
+Too well.
+Doing things.
+No, I hate pulling that, but.
+I mean.
+I mean.
+Would you do?
+I thought the password again you typed it instead of the copy paste.
+I think I have a Spade, a space or something.
+It's not at the daughters and locate if you're well, whatever you did save it.
+But it will ask you to change your password. We didn't no OK.
+OK.
+OK, so hopefully will get there, so I'll let you do that. I'm going to go get some stuff printed up here.
+Change.
+Are you going upstairs?
+Yep, shortly.
+My printer. --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. --- 
+I'm going to fight my waffle.
+Correct? --- Final result received. Reason: NoMatch. --- 
+I'm just thinking about like the email in between, whether it's normal or not. This as far as I've seen in the other projects, it's not.
+It depends, it's, uh, it's not necessary.
+Lately I had.
+Microsoft.
+I advise them to do an extra little 'cause I'm thinking it's.
+Less effort to put in integrity checks and it is to manually forward everything.
+So it's less.
+So to do the exceptions and check those you mean when it's already in Scanman all how like only email is going to folders for emails without attachment.
+That you arrange it in in the in the in the mailbox. Yeah, so basically just catch like exceptions because they don't have PDF they don't have.
+Certain terms.
+In the yeah.
+By means of religious on the data on that comment from other.
+Post.
+Tell me about.
+Bye.
+Next clue.
+And.
+My.
+Employment in the hours of the movement from forward.
+And.
+Control.
+Yeah.
+Doctor.
+It comes only documented.
+Reply.
+And.
+So the build amaze.
+What's a dollar in the email? The email boxes?
+They perceive LCM on email address saved.
+OK.
+Yeah.
+Don't have a D bank economy.
+So now it is our be how you can't relate, perceives.
+And that's to you also.
+The shelf all emails means going forward it to the itself. Come in Skype.
+Rejected.
+Yeah.
+The books I should teach anything.
+And I'll do you have sense.
+Vendors.
+Yeah.
+So.
+This is.
+I don't like to search defenders.
+Forward.
+OK.
+Saturn.
+Project process.
+So far.
+OK, invoices, obviously hard copy will be scanned and sent to one of the emails that those are the shelf.
+Yeah.
+Mailboxes.
+Yes.
+I'll see.
+Bluetooth.
+This.
+What time do we have this meeting?
+Us
+oh, like until when.
+Well, because I wanted to discuss the project planning, yeah.
+Anytime, anytime I'm trying to print out these slides.
+So give me 5 minutes.
+And then.
+Or let's do it, let's say 11.
+So that's 15 minutes for creating or the meeting will start the meeting at 11.
+15 minutes to print.
+Oh, I didn't bring down my.
+Yeah, I think we could bring it down here, yeah?

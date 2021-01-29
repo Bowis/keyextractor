@@ -1,0 +1,626 @@
+--- Final result received. Reason: RecognizedSpeech. --- 
+Within the three ways that things get processed in Scanman. So I think focusing a little bit on that this afternoon.
+Will help.
+So yeah, see, see what you can do for power points, or if you can work on access or something like that to show us. I think that would be good.
+Got a little bit of time before 2.
+I have access in our lab to the work bench.
+You're OK in production.
+You don't need to act like show them anything to process a transaction or anything.
+Check.
+I was thinking I was showing processing options OK, I think that's fine. I don't think. Yeah, just to double check.
+If if they want something else I can do something else, but this is what I thought we were doing. Yep, that's fine.
+So.
+You start off an application pizza for 11.
+An apap tends to for the majority of their work, you see a teachable 02 vision and now uses an AM this 10001, so the differences between the two is that.
+This is the version that now uses.
+CNA 0001
+transfer civil North America.
+So the match the young, the differences between two are that.
+Match.
+On this one we use CNA 000, one and Australia uses.
+See AP 0001.
+And we run the voucher match process and let's see they do that.
+Yeah, and then.
+Um?
+Version.
+For voucher map business function version, we're using this.
+And Australia, did you change it?
+Because they're using one that doesn't exist, they're using a version that doesn't exist.
+Nothing is happening, nothing. It's not doing anything, so that's your master business function. So yeah, it's kind of.
+What what, what would not happening then?
+So you're saying, is this the one that exists Civ? Yeah, an if you go to the A Pack.
+Version of their processing option. They have something in there that doesn't exist yet.
+That's kind of.
+How do they will default to the standards that JD, JD?
+Blank will it default.
+I imagine that it has to know what to do with an invalid version is put in there.
+What's in there?
+What do they have in there?
+See AP 0001.
+That's enormous.
+Well, it's got a reduced.
+So what happened?
+If it doesn't exist, it will double sliding around like that. You have to reboot back to the default version because effectively.
+Red
+I thought you said was broken or something.
+Conversion does not.
+So then and also different thing is, under prepayments we bring our vouchers in as approved. They have it as blank.
+So so it comes in blank and they have to approve them.
+OK, so then somewhere else it must come in as approved.
+But on this particular screen you don't have it set to be approved.
+So where?
+200 business functions. I think it has the same thing, so I think we agree that the.
+I think we agree that the invoices should be set to say then.
+Yeah yeah Yeah, but encrypt this wonderful.
+How are you?
+Yeah, no, but normal voucher should be set aside a yeah yeah.
+Then under P. 4314, which is how we voucher match things and they do it as well, they use CIP 000. One they use this one. We use this one.
+I'm so the differences.
+I'm here.
+This number 9.
+They have there's blank and we have it as a one here.
+And then this is where they have the UM.
+Custom.
+Tolerance.
+Custom tolerance set.
+Why do they have it blank and why do you have it on one?
+I'm not sure.
+We have ours have always done it as a one.
+That's not to say, I mean it's right or wrong, except that's how we run things that are purchase orders.
+Today
+it comes from the purchase order header for the branch plant.
+So you'll always have one P oh to one branch point in your world.
+There.
+Local branch points to 1:00 PM.
+Yes.
+The branch plant.
+We have the purchase order that started to multiple religions.
+Because I have tickets where is different?
+Access.
+So the only people that can do those here. This is really yeah. So we we can help. We need them. We do name.
+Decisively by say decorations?
+And then I'll send it out.
+I gotta charge back today.
+But does she branch plan have to be all different all different like senior year? Your GL accounting can be different, but you branch plans.
+Oh, it is. Isn't it the same way that you talking about in the head up, yeah?
+Pizza.
+Because I mean not non stop.
+And you know it.
+Special form.
+Play.
+Events
+Yeah, but it still.
+What did you do?
+Hey.
+Where the stock is supposed to be done.
+And she'll account.
+Yeah it is, but but if you're doing a GL account that's that's non stop as if you were doing inventory you wouldn't be putting energy out.
+Yeah, it's not not inventory.
+So if you have non inventory, what is the branch plant doing for nothing?
+Which would you want to look at? You can see which villages got stuff in that account.
+Let's it out into the villages so when they have a look at stuff, I can see what conference about was I so you don't actually keep like when your King in the GL account. You don't key in the full string, meaning I do it. I'm doing even objects.
+Populate the planet account number on the branch plans driven from the order head up and then all I do is going and I changed it to digits for the village.
+So the accounts are going flex accounting basically so they account stays the same.
+Department stays the same. The only changes that actually village.
+Accounting for North America.
+But not, but not on the side.
+We have the same kind of set up as she goes, except we are.
+My business unit, the first part of our business unit is not that like the 603 and then whatever whatever and are.
+Department of activity is at 9 so your elevens in the middle or 11.
+Yeah yeah, yeah.
+How to do?
+The whole company.
+So I think that's the same. I just think that the difference between man and I pack is that.
+You guys have companies.
+We have villages.
+Yeah, but we have one. We have one company for the whole, basically a legit. We do too. Yeah, but you thought I thought you had different company numbers for different villages, the different modules. Sorry we have different business units like 227001 is the same as your 603 eleven meaning cover velop ours is 22700 right?
+You don't have the same number.
+Yeah.
+Yeah yeah we have.
+To choose if they're all 227227000 is Beaver River 227001 zombie thousand 22702 is what Masood.
+Yeah, it's very same, same thing.
+And then this is the other different switches. This new order line. This is the.
+Customization that they have been in the system so in.
+A pack, I don't think that they actually use tolerances the way tolerances are set up in the system. They use this new order line because they correct. You can correct me if I'm wrong, correct their pose before they so they make sure that po match is exactly before they send the invoice. Over 2 accounts payable whereas ours. We have a tolerant set up of 10.
+Percent.
+Up to a maximum of $100, and so we run.
+Are po's that way.
+They also have this set in a pack. They have this set to $50.00 so they can't add any lines more than $50, whereas ours is blank, which we didn't realize. We can add $1,000,000 line if we want to one appeal.
+But so.
+That's one thing.
+So for a pack I could add 100 new lines as long as each line is under $50 or no.
+$50.
+OK.
+No, no, so you could add 5 one as long as the total of those 5 words is not a covert, we cannot.
+No.
+Trust me.
+Because I I did read some documentation that was fine line.
+No, it is. I've tested it, it is.
+In when we are processed invoices, we don't lose a lot to learn.
+Partly because I don't want them to.
+I thought we can add the line and put. Yeah you can't add.
+More than $50.
+Is my how many logically make you cannot.
+Facebook.
+I don't want it without so like in Martin doesn't want to, so that method falls in line with the standard functionality.
+Yeah so.
+If that's how you're using it, in theory you don't need customization.
+The standard functionality behaves the same way it's on the.
+The whole order the whole invoice. The tolerances are per line.
+Tolerances are pro line. This is per invoice.
+So I think we are the tolerances out there along with his with Corrections.
+Thank you.
+Correction.
+On that line.
+Why do you have this customization?
+We originally did it be cause sometimes you might have a freight charges 30, but if it's not like it was less than $50. If it's not on the quote here, then they're not going to. They don't put it on their purchase order, so we put that in there to allow us to be able to do that. You know, we don't have to send it back to represent.
+Line.
+So it's mainly for freight.
+Mainly otherwise, sometimes they might put in a line and it's like I set out a couple of cents out.
+So that will add it will add it to the line in code it back to where it.
+Rather than changing a line.
+Because originally when that was in that went to a different account that didn't go to.
+Where the invoice would like.
+Yes.
+I think from my aunt said it does do that now.
+But it's just something that we have, so you have to have your a. I set up so we can get rid of.
+We don't really use it.
+And it was just to allow them to.
+Yeah.
+I'm not sure we can train.
+Music.
+This is not used anymore, not that.
+So we don't need to have this.
+Online.
+The 50
+it's probably something.
+Yeah, but it's not.
+But I.
+Presley
+I know obviously this morning.
+But it depends on where the counts and go. If you have to change the line and.
+Because sometimes they come through.
+Every single one is different.
+I don't think that is something that we should be able to change the account stable, but that's just me.
+So.
+In theory though, hell or this MoD doesn't really impact scanman though, so right no, I agree, I agree, but I'm just trying to understand the two systems. Integrating it really is solely within JD Edwards.
+We have the same except.
+I agree though.
+Right?
+No.
+Personally.
+Too much money.
+So like when we when we found out like I was doing the testing for you guys and.
+I found out that I could add $1,000,000 line to a $5 order and pay myself $1,000,000.
+I can run really quick.
+I think that we should have some kind of tolerance and button.
+I thought that 250 was more reasonable for our side of things, so yeah, well, we just did it. I'll see what was $50 appraisal processes. Most of the freight charges, but no less than.
+Yeah, internal.
+Actually.
+Which supports because he looks like they'll be some problem and they would like that. So sorry was controlled, it doesn't get.
+Increase way too much.
+Looks like.
+They're not opposed to it.
+Well, is it going to be supported by Scanman, right? So we were just talking about that and it sounds like it won't impact scanman.
+Where it may impact this project is the standardization.
+Bit so if we can.
+Come to an agreement on.
+An amount, maybe we need to, or if it doesn't effect scanman, of course, but.
+For this a month, that's my team and everything. Yeah yeah no it won't be in this called earn this meeting but it will have to talk about this afternoon.
+OK.
+But it did. We finish that bit where it is different than the tolerance?
+It's standard in DD.
+It's different, it's different.
+Pictures of person.
+Every company in ours arts in North America is always is the same, it's 10%.
+And up to a maximum of $100 on both receiving and voucher match. So the 10% receiving is on the quantity and not to a maximum of $100. Anna course on voucher matches on the dollars.
+And there's this $50 just straight $50, no percentage and they've got $50 set up too. So you do have tolerances set up besides these for $50, but it's just dollar value of $80.00 per line.
+Yeah, 'cause I know.
+Like before, when we found out with the talents as, you can change the lines.
+But for us it was going into a different account that wasn't meant to clean up, which is also under.
+Yeah, but then there's something else that needs to be corrected when it's not going to the correct account, and that's something else.
+Did you guys want to look at tolerances or are you OK?
+So you can be with different tolerances. Sorry scanman that can be with different permanency.
+Test.
+Every customization needs to be tested and I'm glad that I've seen it now, so I know what you what you ask. But I'm not saying yes or no.
+That was the customization tolerance standard tolerance. Where is that set up on? A company level is in a constant or something.
+It's a program application.
+So if we had to can scanman handle?
+Different tolerances by company.
+Yeah, Yeah 'cause It's a JD Edwards.
+1st.
+OK, but we still need to ask questions on the severe standardization size.
+With that, and I'm not sure that the answer is going to be yes.
+So we may need to have that. Obviously that will be with Melissa Martin and team, but.
+But this is a, this one was a clear one that Frank looked at and said, why are they different?
+So if we don't have reason for them to be different, then we may have to hash it out.
+So.
+I don't have the print up. For example. Yes, I do.
+So the difference is if we're saying that.
+This is the business function, and if we're saying that.
+There having CIP 000, two which doesn't exist, will bring them down to this at JD one. Then the differences between the two processing options are.
+In North America we have a one here for service and tax state and the Szegedy version is blank, so they use the GL date where we use the Invoice State.
+And you had said.
+It said that you were OK with using the invoice state rather than the GL date.
+You know that.
+But
+that date should be driving your input tax credits right? Because it's more.
+File.
+Here for GST.
+Anything that comes from the.
+Yeah, so that service tax state is supposed to really represent when the services were rendered, which is the date that comes into play when you get your input tax credits for GST so.
+Typically one would be best practiced to have it set by invoice date.
+I think that people like.
+And then using pilots, somebody the AP Department.
+We want to us.
+Previously and.
+Yeah.
+Daniel.
+And again for the.
+See.
+Exchange rate date.
+Is.
+An invoice date here and on.
+The Szegedy version. It's GL date.
+So again, we really would like it to stay as Invoice State.
+And.
+But they do have many different currencies.
+Yeah, you probably have, but they they.
+You don't have different currencies.
+If we have anything that's different currency, it just gets paid straight components, but that will go through this system.
+We really have something that.
+This is probably the reason why it said.
+They do live on an island.
+Shipping must be expensive.
+We used to have it in Europe before we had the euro. We have many things with with currencies and since we have the euro, everything changed.
+Yeah, it's much easier so.
+Yeah.
+And.
+This one of we have it as an error and possess JD version has it as.
+Blank.
+And this one I don't want to go back to the blank because I remember when we had it as blank as we didn't know any better and we had so many issues.
+Another but.
+Number.
+But it actually.
+The contract actually one of those great sitting on the sequential.
+Yeah.
+This one, this one like if you try to delete.
+Using P0411 about sure that came from a purchase order.
+That's where this error will occur and say Oh no. So you can't do that because it wants you to go back to P. 4311 to delete it.
+So.
+So it.
+In the scenario where you do have to avoid about your match for whatever reason.
+How do you go about doing that increase 2nd?
+It.
+But she goes on voucher match.
+A key.
+Need to correct there where you cost the problem. Yeah, so when you have a voucher match and it's a problem you corrected. If ultimately the source. The source yes.
+So those are the differences.
+So nothing from Scanman side, but it's concerning.
+But it's concerning to me that you're using a set JD version that's, but that's being.
+JD Edwards consultants. I don't think you should be using a set TV for him. It's not done.
+Well, it it so. They're not saying they are, but no were thinking that it must be because it's doing something right. But that's something that you need to check.
+Is that is that the action with her in that one?
+Function reference bathroom.
+Correct version of two about yes.
+So can you take that to create a coffee and?
+And then I don't. Well, let's talk with Allie and see I don't feel like were done this conversation on the civil side. The standardization side. Just 'cause there's some differences, so I'm not. I don't want to make the call on what's OK to have different, like what differences are OK or not.
+Yeah, yeah, stuff like that. Any of these other little version things that are just a little bit different but it doesn't matter. I don't, I don't know.
+That body is is pretty minor.
+I mean standard functionality, legs and AP court enter a line in doing voucher match all the MoD does is quite tap on the value of that one. Well, not even the line, it's total that's added to that invoice.
+So I as.
+Jenn said you can add 5 lines, but as long as the total is not more than what's in that. Yeah, I just tested it so I wasn't lying. So I just tried to add.
+Pause.
+Canada.
+I agree.
+If we're gonna keep we didn't do it only because I wasn't sure about Scanman whatever, so as if we get the OK that Scanman is OK with it, then we are going to put $250 two 50. And is that checking something? Or are you saying it's OK?
+Yes.
+We don't expect any problems. Can't say for sure until we actually test it.
+But the program that Scanman uses to create about your is.
+Uh, a modified copy of VM A. Is that right? Yes, so this MoD will never get looked at because no patient 4314 isn't being used in it. And this is also a good moment to see if you actually need it and to start working standards according to a standard way. And especially when you say this is useful freight.
+We handle phrase in another way.
+So.
+We need to test this so that's Why.
+At the line for through the through the Forza VMA app you can add lines when the invoice that got scanned is a voucher match correct? Yeah, but it's going to invoke the standard functionality. Quit no cap on the value of money.
+Does that model P-55 then or is it a MoD to the base object?
+Touch it.
+Q.
+So when you when you can add lines you can add $1,000,000 line and there's nothing stopping you.
+No, it's It looks at you tolerances.
+But there is no tolerance for lying right, but we have set things up. We're going to check I'm going to check your system.
+Need to change things for way so can we have a can you throw the tolerance up there and.
+Company.
+So this is our company.
+Set up.
+Are they all the same for North America?
+And then 3.
+Apex big company right now.
+A little bit.
+$50.
+As well.
+As well.
+So if you needed to add 1, you could add 1.
+Do not have.
+So if you ordered.
+Open.
+Whatever your percentage. So if it's 10 we could add 1 because if you had 10 percent, 10% of 1.
+About 10% of 10 is one. Yeah, yeah.
+When I born.
+Yeah, if you have the tolerance set so that's what this. If you look at one 70s here. Yeah, 'cause it had attended tolerance on quantities, so that's why I was just so the function type of a one is about should match and two is receiving. So when you are receiving in North America we want to receive quantities not.
+Price rite not all the time. Do we do that, but hopefully the majority of the time, so that's why the quantity is the percentage is on the quantity.
+So we've got a 10% quantity tolerance.
+So if you had 100 items, you could add up to 10 items as long as the dollar value then didn't change by $100, right? Yeah, we know for where I'm uncomfortable with it. 'cause I don't think we can. Probably should be able to add quantities.
+You have to ask to say it's not making go well with any voucher like 100, but they actually got persistently receiver. This is not accounts payable phone number. One is for the accounts payable, so that's on the voucher side and there is no quantity tolerance.
+And it's 10% won the unit cost.
+So when we were looking at the 411 processing options.
+We didn't see anything for voucher logging.
+Multi company single supplier.
+I do not want to log invoices ever again.
+Never again.
+If you don't have an exact like if you just take it that it's going to workout that ended when sometimes they sent out. If you don't have that correct, you cannot match that, only have sex. Then it has something packs.
+What I did see is that you have vouchers with a PS document type.
+I don't know if you have it or if not then I still have it, but we don't use them anymore. OK, we had it when we had our construction where we would always stop said I would have that, although construction payment spot we don't have that anymore.
+And it's also for the USA. For Canada I don't use the document type PS anymore.
+Something that we had only you.
+Created for it anymore.
+Get rid of it.
+Do it then I will.
+OK, good.
+Probably all related to that subcontract MoD that I think we do. Actually for retainage like when we pay retainage.
+I'm we do.
+Yeah.
+'cause we don't have the second part. 5 minutes, we don't retain anything until this year.
+So that's that.
+And why do you want to have a separate document type for it?
+That's the way it was set up during Civial, Lucian and and we really have only one only one open PS document and it goes back to 2014.
+What is your other customers done so when you implement scanman effectively all voucher entry for accounts payable is enabled through the force of May application update.
+No, it's uh.
+Manual.
+So settings.
+In set up so that we have.
+That's also what I'm trying to figure out, mostly from these sessions is what settings would suits what you're doing. Sure, so I guess.
+When a customer implements scanman the idea is that ideally all invoices come in electronically and get red and created by Scanman So what are the other customers done in terms of the standard?
+Voucher entry and voucher match applications. Have they left those available for users or how do they change the security so that you can add documents through those? Yeah, of course it's switched off. You only use scanman so yeah.
+Sorry if I haven't been clear, you're only using scanman.
+Sorry, but that's it. You're only using scanman, so we'll have a security changes coming as a result of this. Yes, yes, this action security away from.
+Those two outdoors to voucher entry applications.
+Yes, but it's also easier because I understand I just wanted to know if you have customers kind of left themselves back door. No no no no.
+Because you don't do data entry anymore, right? There is no data entry.
+Hello.
+Well yeah, sorry the way you say so that we don't enter what's up I don't know speak voucher normal thing.
+Yeah, we don't enter anything into JD anymore.
+No, no, no invoices.
+Just just foundation, so it's the invoices scant or you receive it by email and then you so you receive it in your mailbox. You check if it's an invoice or not, you send it to the correct email box and then it's already visible in the Workbench of JD experts scanman.
+Comes in through the miles of people given us. So way you have to scan that into normal. Looked when it's in the mailbox, you don't have to scan it.
+Oh sorry, yeah.
+That still exists, unfortunately.
+Yeah to the scanman email address, yes, and in the PDF will go to the scanman email address inbox, picks it up and it just processes it. Since you stand up.
+Invoice is going through Scanman, but we do the payments and stuff so through JD it yeah yes yeah that the payment side will change.
+So where is it?
+Which meant that the MoD on that the $50.
+Where is that? Something 4314, so that's a problem. It's a problem if we want to maintain that MoD because we don't use that application through Scanman.
+Thing is to be tested, the only thing that has to be tested is the tolerances to see if those extended amount intolerances kick in on the AP side, the way that we won't be too.
+So when you a vendor, an exception that so there is no subject coming through the block change and you want to add that pipeline. So sorry I can't use it.
+So to come back to this price.
+Nobody here you extra line, but I match the Workbench manage and that's where this.
+That's where you say you work in the scanman web page. One page. It would really check that I've invoice, yes.
+Yeah right side yeah. And then on the left you see all the information that that is really scanman recognize you check verify you enter data that even make it nice and then we'll add extra information that's not slept in the P oh so an extra line or something else. What you will do?
+Add an approver roots.
+And then you could take the process and you send it to the to the person to approve the invoice. So once it's approved and then it comes back, that's when we do whatever and it goes to driving it.
+Whenever.
+OK, so sorry to come back to the intolerance is something that you will text to see if we can have. That means there.
+Or is that something that would change is oranges?
+Obviously.
+Yeah, 'cause that we save the tolerances that are on the invoices. Yeah, we would still need them on the invoices. I'll check very well and he pulled out his gun in Scanman. We would make that but if there if they're if after you add lines to the invoice.
+So say you're saying you only want $50, but what if it comes in as $70.00? You can still add the line if there's no tolerance, and then it goes to a for approval. Yeah, so you're getting.
+Kind of the best of both worlds there. You're able to Add all your lines that you need to make it balance to the invoice.
+But then it's going for approval again. Yeah, I think that's something.
+Yeah.
+And it's also that only your birthday, so it's also when we have an invoice and it's not correct. Then your purchaser change decreasing order, yeah.
+Now there are real people.
+Check if it's correct. What can receipt, so maybe you didn't receive everything and that's what we do now.
+Change it, yeah, yeah, let's say something which are. Which are the apps that will be shut off when we go live with scanman Peter for P0 or just before 11 or 1140? Three 14 speed entry.
+OK and P 4314.
+Beer, and in which one of those two has the processing option with the 50 dollar 43 that one or 4314.
+So do you have?
+So we have stand up. So I got paid back to standard voucher zan.
+Aren't they the same? What's the difference between speed and stuff?
+Obviously without tax, so this page batches is when it's either no tax or just straight 10% understand about disappointing, but lines that have taxes on without check. So the way it gets processed to do alignment had Contacts alignment. Have you got that up and then you go to one?
+Scanman recognize this if there's tax on their invoice about, so yeah, so there's a special books only from the screen where it recognize the lives of their taxes. Or yeah.
+Another one that would have to get shut down there.
+I'm guessing is.
+The 43 oh I need. OK then you got standard vouchers as well. OK then we know what that one is, but that's also 411. It's just a different version of pen.
+411 SB is also, which is the standard. That's OK Steve. You'll get a new menu, so you'll get a composite page and.
+Will replace the current part of the menu in AP.
+I'll check later which particle research?
+Hum.
+This might be like.
+Off topic and so we can talk about it later. We have particularly lawyers and dumb.
+Accounting firms and things like that, but do consulting and they'll give us different charges on the.
+On the invoice and some of those charges have PST and some do not have PST and and some just have GST.
+Um?
+And.
+But at the bottom, so they have details per line.
+They don't say which one has PST of which one has just.
+Just GST or or whatever. All of it has GST and some has just PST and then they just give you a total PS they don't even break it down. They'll just say tax.
+$100 but out of that tax 7% is PST and 5% is GST. But we don't know based on the invoice.
+Unless we manually calculate which how, how they got.
+That tax.
+How is that? It's something to think about. How is scanman going to? They wouldn't be able to do that any better than us know. Same just meant to say.
+Three difference in scanman how speed and standard are processed.
+'cause there's really 3 tracks, right? There's a 3 way. There's a two way. And then there's this.
+So scanman is mainly for registering your influence, so scanning and its speed a standard is also registering more influence.
+It's a standard, I think standard has one or two screens to enter, and speed has one screen to enter, and that's the part that is replaced by Scanman.
+Recognizing the invoice.
+Questions.
+No.
+I don't think so, so so really what we're going to try and discuss this afternoon is the modification on P. 4314 is going to be replaced with Scanman, so we need to try and get that in the standard JD tolerances.
+The company level.
+But the company level.
+It was.
+But it's it's not.
+It's per line not heard total.
+Invoice
+the one that is in.
+For the standard tolerances or at the line number not correct.
+OK well that is our challenge for this afternoon.
+Get that on the same page.
+OK, that's
+it's really it. And then Corrine you have the action of that master business function for a pack.
+Thank you.
+Copy that.
+Well I think check this time, sorry.
+Oh sure, yeah, yeah. Just as long as we get that cleaned up.
+And then and then just the, uh, the little little things that we found, like the invoice date versus GL Dayton, the blank and they are just I'm curious. Are we concerned about things like that?
+Well, well, I mean where we found some of those differences in processing options were on versions.
+PO411 and P 4314 rock abused anymore so but do you create versions of the scanman? We do create new information.
+That's where the discussion will come in.
+Those versions of horses BMA.
+And I just I think this is a bigger conversation. This project, though I mean it is standard in severe that we have different versions for other regions.
+When needed so.
+Yeah, I think it's probably, and so the the difference is that Diane's noted between the configuration versions of.
+Standard voucher entry ends voucher match. I think those can be part.
+And then when it comes time to configure the versions of scanman ZP entry program.
+Talk about what should the setting be and we need one difference between.
+Countries or regions or whatever it might be, yeah.
+Is it looking like the same thing that what we have currently for purchasing options like I haven't? I've never seen when you have because once they go live and we have to go to, you know business as usual. What is it that we can do and that we can fix? And what is it that we have to go back to movie, you know, they realize some of the.
+Not adequate.
+Yeah, I would think the processing option reviews and changes. If there are any made we would just do that ourselves.
+Application.
+And the scanman applications to the processing options look exactly the same as the standard apps. Or is there more?
+Function.
+If you different as well, would you provide a detailed documentation? Yes, yes, yes there is a manual and you get training as well. And is this part of the training session? No, no. When does this happen? When is this configuration happen? The configuration is mark March, but that documentation is done done I guess.
+We have the outcome from this session for us is it's mainly now we want to learn to know you see what you do, how you work and then we come up with a plan.
+Thing that fits.
+Your way of working.
+And an and.
+How scanman works.
+Yeah, and then I will send it back the document and then you start reading it and then by the 14th of February we want to have it signed off and then will start setting up all the versions and the outcome of that will be a document with all the versions and all the processing options.
+Yeah, just elaborated details details.
+So you you have the document and and then the next step is that you have a training and after the trade.
+A month I think, for uh, no, no. The training is a couple of days a day and then testing is a month.
+And then we need a couple of weeks and then we go live.
+So it doesn't sound like we have a ton of time to know you don't like we. I don't know that we just put it off until it's time to look at that. 'cause that document within two weeks.
+Because we go in stages.
+Clear understanding about this sitting there are going to be, you know, global for everyone is that when we actually come on board with that stick in one, I will sing a lamb already went live with particular settings and will be a great on that. And then when we come here we have another sip correctly. Oh hang out that setting ABC.
+You know it's the same as JD Edwards, Yeah, but in the process of.
+It's a good point. I mean, how do you we can clean everything up? But then if we just turn around and go back to our old ways were not accomplishing anything, yeah?
+You will have access to the processing options.
+It's still things that we discussed now might be that after working with it for two months, but it still doesn't fit and needs to be changed.
+Today
+thanks.
+So Diane in Korean were going to sit down on these little things and figure out be part of the conversation.
+Yeah.
+I'm sure we'll need something from.
+An emerging Melissa, whoever we need.
+Sooner than later.
+Yeah.
+The modification.
+Tolerance for invoice.
+Will need to go because that application that have gone is being replaced by Scanman, so this afternoon will talk about rolling it into the standard tolerances. Pearline will see what we can come to there at this point. These are different as well, but maybe that's not a deal breaker 'cause you can have things by company. You could have it by companies longer using our tolerances that say yeah.
+Hum.
+And then this, yeah, this will probably be in action. I don't know. I gotta think about how we're going to do this one. This is just. There's just little little small things on the versions that are different.
+That will have to reset up when we get scanman versions.
+So it's a good time to just review IT service texting for example.
+So it was an example.
+GL versus invoice.
+It's uh, in the in Australia. They have the gel dates.
+So when you talk about that time, so I'm guessing the family, are you the one who can tell us we do it on generator.
+If you have.
+The GST.
+Date.
+That for tax purposes, PST and GST is that based on Invoice State or the GL date that the goods were put into the system.
+Thank we don't we do it now on the GLD we do it now, but the The Invoice goes in on the invoice date as well as the tax goes in on the invoice date.
+Descriptions here was it around exchange rate?
+Yeah, and then the exchange rate as well. Yeah, but exchange rate long time ago we sat down and we set invoice date but.
+Without, because she did.
+Border.
+So they would look at what had gone in for that quarter. So maybe that's why I lose only jail day.
+So you do you have a March invoice that you don't do anything with until April?
+And you get something every six months old at so much shaping. It'll don't pick it up for the GL down. It's not going to pick up as they do it per quarter. We do our bathroom, so they're not going to look back at what might might have gone in three months ago, but now it's getting paid now. Probably why they'd go GL date, because in that three months.
+We want everything that's running to the system for that three months, and then you move on to the next three months. I don't think arts were going on the invoice date because we file monthly.
+And if that if that invoice date with six months old, it would not, GST would go into the current month.
+Ours is set for invoice date.
+Why?
+I'm asking that question 'cause we we file we don't go back and look at.
+So I think at the end of the day, whether you're like certain here in Canada, if you're going invoice date or GL date.
+CRA isn't going to matter because at the end of the day there still getting their GST right. So going to be calculated? Oh yeah, absolutely but best practice is to record that transaction for tax purposes as close to.
+The time that the goods were delivered or rendered services were performed, which is the invoice date.
+I mean that makes sense, but if you're only looking at these period because you've already done that, then you're not going to pick up something with the invoice statements back there. You'll pick up what's coming in this.
+But but the system is not necessarily gonna know all will be slowly invoice over. He wasn't actually done then so will put it like it's not going to look at it that way, but depending on how you file, because when you file you tend to look at.
+These periods and it doesn't matter what the Invoice State is for those periods 'cause you're basing it on GL date at that point. Yeah, when you're finally could, the system is not going to know that you see invoice within their or wasn't like it's not going to be any how you supposed to remember 'cause we enter a lot of invoices. How are you supposed to? Unless you go through with a fine tooth comb that that wasn't picked up? No, no, it'll be picked up because it's picked up because of the GLD.
+Yes.
+I mean, it was the invoice date that this that goes off that it still going in the current month invoice. Yeah, it's still going into the GL in the current in the current month. It's just it's captured.
+With an invoice date of the date of when the goods and you don't, you don't have to go back and look for filing 'cause we don't and you can't post to a prior period so it could be. It could be a September 2019 invoice that I post this month. It's still going to be in the January GL.
+I'm just thinking maybe that's why that they've got the service date. As the Geodata Australia rather than an invoice yet but.
+The service state doesn't put doesn't determine when it gets the GL.
+No, it it. It may be an internal audit question because if you look at the scenario where.
+Do quarter end for example. So June 30th.
+A material invoice, $2,000,000 services were rendered in June, but for whatever reason you recruited, so it's going to have a July GL data anything.
+You know what is the risk of not submitting that tax in the month of June when the services were performed, so it's like, oh, that is the question.
+But since the surface state has no bearing on the GL.
+The server and if it's a difference of service date, if that's something that is different, maybe that just goes to the. This escalates, I mean it's not. It doesn't have. It doesn't impact your financials, it doesn't impact your GL. It's just a setting.
+In JD with no financial impact, how you do your analysis at the end of the day, that's what it boils down to.
+Decide whether it could. You guys do apply the invoice date. That's what comes across to the server state. So whether that something that we can change all this specific breeds that comes from the deal day. I don't know that 'cause I don't do any of that reporting, it won't change any of this reporting in Hyperion or anything. In JD an the best practices to use the invoice date so it bring it up to him. If he's not willing to change them with this, talk to us, we're going to have to have a session on.
+All of these little things, and I'm thinking it might have to be like.
+After we see.
+Maybe screenshots of the processing options?
+The screen.
+Hum.
+Is if we're going to have to get together and and.
+Look at the processing options that may be worthwhile to just look at any additional ones.
+I think what we have to do is we have to have our pros are saying options standardize or defined. If they can't be standardized to give to them.
+Could they can be done by company and then they just need to come back with us. Here are the three or four or ten others.
+Processing options that you guys need to pick. You know we could. We could do it that way too.
+But she said some might go. I don't wanna like they might change. Just have a look.
+I just think that's a big item that.
+If we need to be signing off, you know before I had that.
+Well, well, she wants the stuff by the February 14th.
+I'm not sending you a document with processing options, then it's just an analyzer, so it's mostly text.
+Is this not processed man?
+Take that, interpret it and it's a process, not just.
+We have decided to move in with Technical Support. Can we receive the documentation it sent to Rebecca? I haven't already. Hello?
+Sorry, we need to write.
+I have a lot of things I don't know. Also this week right? Yeah, yeah.
+So I'm thinking this would probably be this one will go into next week.
+Bill.
+Would be nice to talk about some of it here. Will talk about this afternoon a little bit with Martin on the call and just I just I don't think are two hour slot is going to be enough to go through. We want to blank or a or a certain procedure. This like this but.
+That's not my intention. What sort of reporting is coming with me?
+Right internally 14.
+For that service things.
+No.
+It's used for text.
+So I just want to be little bit more familiar with that because when I saw this changing the way or something where we're not using for interior fortune here in the context of AP automation, you didn't see very direct use. Yeah, so it's really used on the GL side, 'cause there is some tax reconciliation functionality in the GL which you could base it on the service tax state. Also based on the GL date. So really, that's what is going to drive that.
+If they don't, it doesn't, yeah.
+Question.
+Yeah.
+Maybe we can. I think we should start the conversation this afternoon. I just don't think we have time to get into the nitty gritty and understood you don't need it for Scanman, but the other side of our project that Frank talks about is done rising and it was kind of the question the Lord. How far do we go with this? Like we have versions for a reason.
+I don't know the answer to that. I don't, it's just a conversation that we need to have and.
+And maybe we take some of these things to Brian and Frank and say like this is kind of where we're at. Is this a deal breaker?
+Maybe it's not.
+Do we have any recording it you know up there bugs office service thing?
+And the service tag stand is an important piece of the GL because it gives you the non financial period view of the of the general Ledger and that when we go typically it's the invoice date whether it is a are or that accounts payable.
+Interment will be typically be the.
+Or a month ending right? But it can also be the work day from when it's coming from time and labor in payroll. So I mean it means different things to different data sources, but it is completely separate from the GL date, so it doesn't impact financial reporting anyway, you're right, but it is important when people who are wanting to dig into and analyze the general Ledger from a non financial period POV, right? When I use it for is because we get a lot of.
+Post your in so we might still be doing Journal entries in March for the previous year produced it.
+An when you have to go back and reconcile your GL to see what might have changed in it. If that service date is exactly the same as the GLD, it's absolutely useless to you for any kind of.
+Looking it up, not knowing what that service date is, that might say March 2020, but the GL date said December 2019 because Caroline's come up with additional tax as we've at the end for us to change it to the GLD.
+With the.
+Again, it it makes that field now totally useless, so they have it. Set it for DL date. There's absolutely no benefit to that field for you because it's the same as a GL date.
+I guess the point in time entry does make a difference in service day.
+We did.
+Craigslist.
+What for receipt?
+Has been done.
+Invoices where we don't have a touch on their consistent, we only get the invoice and.
+So the purchasing scenario is a good example. You'll have the receipt date would be the service tag state on the old document of the invoice date would be the service tax data on the PV document.
+It's just another date that represents the transaction different from financial period blogs, right? But what I'm saying is to make it exactly at the GL date.
+Then it gives you no benefit at all.
+Because you made it exactly the same as the TLJ look at the tailgate. Yeah, so that's why I haven't met service state as the transaction or the invoice date or that that date. It gives you a second field. Like you said, right, right? But if you're doing a Journal entry in the middle of a period, right?
+UGL dating service tax date probably are going to be the same thing. Yeah, right side, but we have a lot of entries that come in.
+After I DL date that we have to go back open a prior period, roll forward in its filter on Houston entries that we do and without this sort of if the service tax state was the same as the GL date would be a useless field for us.
+What I'm saying is.
+But anything he ran off the service date he could run up the jail. So maybe it's more question. Yeah, yeah.
+OK.
+And I would think from a standardization point, I think that's an important point.
+OK, well we'll discuss these things this afternoon. We kind of got some of the details out for our consultants and will have a discussion about it. I think the other thing is.

@@ -1,0 +1,203 @@
+Everything that ends up in the scanman inbox will end up in our work, but just garbage in there that we have to delete little kind of. Try to go through the OCR reader.
+Vendor.
+Or if the vendors sends a question to that.
+Cables email address doesn't have an invoice sheet question, so we don't want that kind of stuff already. Memos or anything? Yeah, so this will be. It's a clean up or a stop on the AP side or in Workbench. The Scanman work bench, which is still on the side. So both Jenn and Caroline are OK with that. So that's the direction that will go there.
+Then we had a session on the applications that process the Invoice in JD Edwards that was with just the biese, so it was more of a technical session again and the consultants and we went through the modification that we have invoice. We've gotta processing option in Australia that allows for $50 in Canada is left blank. What we learned in our session this morning is that the scanman applications will actually replace the standard JD Edwards one so that modification.
+Will have to go.
+So we kind of talked a little bit about some options there. We looked at the standard JD tolerance, which is per line and had some good discussion with the group this morning and then we talked about it again in the afternoon with more the business folks and we came to a decision that we will use the tolerance of 10% or up $200 so that it will start and just monitor it. We looked at some possibly looking at some reports to help.
+Manage, so we've got an action that will talk about tomorrow.
+But
+but it was is good we got to where we needed to be on that one.
+We also looked at some of the processing options within the versions of the applications, and there's a couple takeaways there. We have currents gotta take away to look at a master business function that needs to be changed 'cause it's non existent, just old so it's referencing is at JD version so she's got that. And then we'll have to have a session next week on some small little differences.
+On the versions on like service, tax date, invoice or GL date. So just little tiny things like that that will have a session on next week and try and get our versions standardized.
+It may be their small fields, but they may be big conversations, so we'll see how that goes. We'll schedule that for next week.
+I'm what else do we do today so we also talked about the approval set up in Scanman for the invoice. So this is in addition to the approvals that are already in JD Edwards for the P oh so this is a new piece that we have to configure and we came to an agreement on what that's going to be. It's going to be set at #5 which is starting at the branch plant. And then there's a series of cascading rules. We also talked about a reminder email going out to.
+Managers who approvers who haven't actions the approval an invoice and we all agreed to start at 5 days and see see how that goes.
+The other things we did today is we looked at the three process flows in Scanman, which are three way match A2 Way match and then the standard or speed voucher process. So we looked at all three of those today. We walked through them. We had a flow chart from Forza that was presented, so hopefully we got through some of the confusion or roadblocks that we had yesterday on how things worked. At least we got more clarity on on how it how it's going to work. I think we'll all.
+Probably feel a little bit better once we see it set up, which will be the first step, will be the functional document that you'll send to us next week, and then of course once that's all approved and signed off, will will see that when we start testing in about a month and a half.
+That's that's it. That was our day. So it was a good day. Got through lots.
+Finished 1/2 an hour early. What do we have left on our standardization questions?
+Um?
+We could have a very quick conversation on the drawdown.
+Blanket pose for utilities tomorrow.
+Just just to see what the appetite is on that. We did talk about drawdowns for the 03's in North America for the Gordon Foods and consumables so we could do that. I don't really think there's anything on the DOA approval, that's just you. I'm running with Carolyn on that, so we won't have anything to discuss that. February 3rd, yeah?
+And we added a new one, but it's not the standardization exercises, just reporting, so we're going to talk about that tomorrow on our afternoon agenda.
+So really, that's it. We've gone through most of the Presidio Standardization.
+Topics and have come to.
+Decisions and agreements on all them. Nothing that I'm worried about at this point. There's still some actions that we have that will take maybe a week or so to get through.
+And what do we have in our parking lot so far?
+I I don't really have that prepared to. It's still a note, but there's a few things that came up, things that, like, for example, the doc types that maybe have reasons for having them that fall outside of the scope of this project like they are for inventory purposes. So all of those kind of things that will be that will basically make up the parking lot and will review those with Joanne and teen after to find out where they belong so that they belong in a different project, existing or spin up a new project, but I will get all that.
+Documented by the end of tomorrow.
+And grow blocks were dead horses.
+We, I mean, there were times both yesterday and today where we had some tough moments trying to get through stuff, but I think we got through everything.
+So yeah, I would say no at this point unless anyone emails me something overnight.
+I think we're OK.
+I feel better when I can. Yeah exactly yeah yeah. Well get more comfort next week when we see the functional document and then when we see it in test.
+I'm sure we'll have some more comfort there and some questions, but.
+No no good.
+So any questions from anyone on the phone?
+I am tracking everything all the notes, so I'll send them out. Probably end up tomorrow session just 'cause it's.
+Pretty busy to get everything together, but we are tracking everything and they'll be that. Decisions library we talked about in the kickoff.
+That will be published as well.
+OK.
+Thanks everyone.
+Bye.
+Correct?
+We were talking about.
+The difficulty of change today and change projects and these change projects and it came up in sometimes.
+Anybody better to not think of your job?
+But I think it is starting a new job altogether. And what would you do on the first day?
+You wouldn't worry about how you used to do it. You go and try to learn how to deal with the job.
+Always.
+Yeah, they'll be a couple of those, like with the invoices are used to going to either, while sites like the sites and people who were used to having the invoice come to them first instead of coming to get registered through scanman. That will be a change. Yeah, that would be the biggest change for the people who are not sitting around this table.
+Basically, for civil USA, Incivil offshore might be going to be for some of the villages and things like that is Sonic at any up in the box.
+Not directly under the stuff that comes in the package.
+Project name
+for this yeah.
+Maybe not so much for this group, but for.
+The users.
+You haven't got that far. Were talking about documentation and training tomorrow, but we haven't talked for a name. AP automation. Doesn't that speak to what the project is? And that's really what these changes are driven by, I mean.
+It will be a change. We have chicken.
+I made an impression.
+We have had meetings with supply chain and now all the US to let them know that too. Again address that are you using the invoice to drive your P. Oh and the answer is they have said is no so then.
+They don't need the invoice, right?
+If they are, then.
+We have to understand.
+Hi, we're doing the Peel.
+Why?
+Australia.
+Yeah.
+I miss you.
+Yeah.
+Start menu.
+The Doc Number really actually purchase order would be the receipt number, which will be done well, I know.
+I wanted to bring some wire is ready.
+I'm fine.
+Yes, supplier would be on the address number would be on the geography of action, and if it's a purchase order transaction so the voucher or receipt allows us to fire number on the GL transaction in the address number.
+Done but.
+Well, maybe.
+Ridiculous note taking is the address numbers already on it. We got that from the original.
+We should have that for dinner, one that.
+Well, I've already got it.
+So if you want supplier number and what I had this number and address book name, yeah we can put those on the yes I don't know what I want to purchase it they have for health.
+I don't really need it because if you gotta only document or PV documentary document for sure you know what came from this project.
+I don't know if it helps.
+No, I don't think I need it. The only reason I was like, yeah, I would rather let's go get a table for 10.
+I'm ready.
+No.
+Give you is.
+Identify how many of the transaction Washington from.
+Yeah, it it is a one way street, so you'll go down.
+How many parking over on the as you go past the restaurant's problem? On the other Rd in the Mail, vague idea falls back down the side and then when you go to work.
+Around my BFF
+which will bring us back to the South Siders number and then it's actually.
+And actually good.
+For location and there's parking that's only a block away.
+Nothing ever been there. I just Googled it.
+I think we need more sets.
+We also need the tolerance for the.
+We might not.
+Well.
+They open at 5 so we know.
+It's different.
+Let's join if it was like a truck.
+Search
+no either.
+Yeah, the family so or you just pick what you want. Costly for melted. I saw that they know it's not Brazilian style, so it's like a southern barbecue, alright?
+Presents the same disorder I want birthday difference in theory.
+We have to set it up. Oh yeah, I know absolutely.
+I thought you were saying we have to have a discussion again, no no no no no no no no.
+The discussion.
+Enough discussing from it instead of. Yeah, that makes sense. Yeah, it'll bring it #3.
+Yeah, it's it's just when you said to me that edge.
+It's a line. It's not like either in the inference.
+That's right, yeah.
+Yes.
+Map.
+Yeah.
+Do you? --- Final result received. Reason: NoMatch. --- 
+I'll grab my stuff.
+Tomorrow.
+And working out.
+Yeah. --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. --- 
+Yeah.
+Yes.
+OK.
+I actually did watch it.
+Two years. --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. --- 
+Picture.
+No, they're so good. --- Final result received. Reason: NoMatch. --- 
+Doesn't sound right.
+OK. --- Final result received. Reason: NoMatch. --- 
+Right?
+I wonder?
+It works.
+At least. --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. --- 
+Thank you. --- Final result received. Reason: NoMatch. --- 
+I feel like that was even more intense today.
+Think of a fine with the date of miscommunication.
+Communication.
+Today was.
+The language barrier, even though.
+Really like.
+Sometimes it's hard to articulate and I'm not very good at it myself, but sometimes I try explain something to use too many words or something like that.
+Escalate.
+Australia.
+Right?
+I don't understand.
+Yahoo.
+During the day, will see different things the whole time.
+She's.
+But he he.
+She started talking.
+There was a lot of back and forth and like even when we had our little session in alleys office upstairs like the peo approval in the invoice. Approval like that is is key to understand that difference there.
+And I I don't know if that's thinking in yet.
+Maybe when we when everything is written now.
+I feel like jewel.
+No.
+I would rather you be late for dinner.
+Memphis and will not help us through it like I think.
+I feel like yesterday would have gone a little bit better to sort of missed it in the budget. People like Bryan and Joel there that you clearly see.
+In the recap already, yes, Sir.
+I think so were an issue in the initial meeting. Another thing in the.
+Hello.
+Work to do, but
+maybe try to take on the oil Kings tonight.
+Throw the closest wells.
+Yes, yes, I figured we didn't need to order in advance.
+Not.
+Yeah, definitely.
+Do you like have coffee there like another?
+Sophie.
+Yeah yeah, we have like a street hockey here in the summer.
+Not anything like that.
+Yes.
+We didn't know enough about.
+Different anyway.
+And I have.
+OK.
+OK.
+Work.
+Yes.
+And he's like.
+Are you going and like?
+No, because I think.
+Yeah, but you only get once in a lifetime. You need to go and like you know how much it doesn't matter.
+Need to go there.
+Go there.
+Yeah it.
+So just.
+I.
+Jackie into the restaurant.
+Brian Houston.
+Texas.
+Cooking, so he wouldn't recommend something that shows near here.
+I've heard really good things about it.
+I don't like picking restaurants.
+Yahoo email me last week.
+Sure, I have no problem with that. --- Final result received. Reason: NoMatch. ---  --- Final result received. Reason: NoMatch. --- 
+No understand.
+Charlotte
+call
+call.
+I think it's just because they there's no AP down down there in the 80s processed here.

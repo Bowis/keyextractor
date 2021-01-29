@@ -1,0 +1,1356 @@
+Inbox so so question. Number one picture send invoice so we're saying that we need the invoices sent one at a time.
+Well, ideally if they could.
+Send
+that's a.
+Well you look at them one at a time. No, I know but but.
+Hum.
+GFS for example we get.
+Maybe 100 invoices from them in a day, and they're not going to want to San Juan Invoice and another invoice.
+Deal with multiple invoice. Would it be multiple attachments or is it all in one?
+One attachment, multiple inputs.
+Yeah, I'm going to check what we need to follow up on here.
+If that comes in and we can use that, that would be perfect. There are a couple of most of the time they will send one invoice, but sometimes I'll send it as a couple in there.
+And a lot of RS2, they send back up with the invoice.
+Send it, send it through. One company will send it through and it's the same.
+You say the same Philip sends on that email.
+But that's something I don't know because they get them in the villages as well. And then there's another company that will send.
+So many other things, they've gotta get split between different places and so then we print them and workout.
+And then people who blocked like back up like like I'm thinking are utility bill. The utility bill is like one page but or tux and you get.
+This match paper behind to to back up that invoice, but what I hear here are good this scenario.
+OK, Yeah, 'cause that was not had kids out shelter bill. This is the only pages that I used my telephone go where is when I post it to us it this Patch is it telephone yeah yeah we have the same thing. Yeah the telephone bill has everybody's phone number details behind it but some of the first page you have to take and I'm trying to get my information from the pipersville I get it from their portal which is where I'm going and download and we get ours from portal as well.
+Yeah, OK, so it's also.
+Templates also said if you downloaded something we would try to guess wrong as well.
+Open Excel so you got. You can code it.
+And workout for the line 'cause there's a lot of blank wanting after my workout. The lines that I need so that I Bill and then I.
+Type that Virgin.
+Yeah, so it comes in an Excel because his cell phone gets colder differently than my cell phone with you put it in your code, all of them, and then it now in Excel and you just loaded up into a Journal entry so we don't actually well. I guess you load it up into the AP voucher but is not going to change with this or is that?
+I did mine is that I have a couple of things where I will take it from Excel and copy it into what do you were still talking about the telephone telephone so he got 600 telephone cell phones. There are coded differently.
+We take from the portal of the telephone company. We get it in Excel and then you just.
+Kind of a copy pasted into the AP boat.
+So for and we have a couple of bills that are like that, but telephone is one of 'em. So now when that telephone bill comes in, well, I guess we really wouldn't scan that telephone bill in the front page because that's not going to allow us to code 2.
+Six other phones? Or do we scan that telephone bill in put it to the sundry account, and load the portal Journal entry in Excel to the sundry account instead of AP? And now you've done your entry.
+Right, so it's just two steps. The telephone bill would go to sundry.
+I would download Excel Code My 600 cell phone bills and instead of my offset putting it into AP to AP payables, I put it into a Journal entry in my office that would be sundry. That's all. I would suggest. My team here, does it.
+And then just pay online, yeah?
+'cause you are paying one line like when we pay, we only pay we just GL distributed to yeah, I thought on suggesting it will still be DL distributed. It's just that it's going to clear to the fund me account instead of clearing in the trade account.
+I usually set it up tonight.
+And then I could be all day.
+And I just but the phone doesn't. The phone bill doesn't come broken like that, let alone bill. Yeah well, it's broken like that, but it's.
+The amount.
+You're only looking at the front page to pay from, and that front page says we owe $10,000.
+I'm coding.
+Logos here L Eagles. Here he is filling a dollar amount without introduction body.
+Reminder.
+Came in through the Mail monitor only the first page is an invoice, the other 99 pages is back up.
+You can exclude.
+Search
+just to recognize the templates and if it's told to ignore 99 pages as well.
+Thanks.
+And yes, this is the actual information.
+And then I workout.
+Requirements.
+And different spreadsheet so I know what I can do.
+Then yeah, there's probably no choice. It's going to pull in all.
+100 pages.
+Hello.
+Longer to process. Either way, it'll get away. Just got the information you need.
+I have a question. This founded invoices.
+Is that for the three way two way on standard or is it just the two way?
+It's for all but you wouldn't see it if the tree way goes through to the end, so this penalty invoiced boxes the scanman source.
+You can configure it that if I like it like once it comes in is it flash there for a second process and then move on. If it's good does it? Will it ever be in the work van?
+In the optimal situation where you're matched your skills on 3 way and we set up now approvals, then it would just get to work.
+So.
+That's actually a decision we need. Still need to make like the three ways.
+Do we want it to skip?
+Sitting in the Workbench, if you get a match.
+On all three, well, if we're trying to automate this.
+And streamline it then it.
+Let's say that for now we can leave it on for the first few months. But yeah, for this purpose will say if it's a perfect, not just just go OK. So then we have to resolve this PSD, but that I think we can.
+So this is fine overhead 6%.
+Match is within tolerance now.
+Exactly.
+Actually it is turned on.
+In the comments.
+Well, I I don't actually want to do this part. Can we do it?
+So we're really going to jump right to like tolerance is the way that right away it is here.
+Sorry Brian, sorry sister. Quick question hybrid degree question. We have the tolerances.
+Um, so at the moment it's very menu, so both sides. It's manual to working with the tolerances.
+So when the invoice can do through Scanman and everything fits in the tolerances.
+We don't change anything and it just goes straight through there JD so it's all correct. If it's within, the difference is it matches. So where does it send the differences too? Once it goes to JD you OK so.
+Different lines no no.
+When you have a different taste, even getting it so they're not right here.
+I think it's in back to the online.
+But if the them, sorry, sorry, just to keep going and then you have another stage where you keep your virtual matched and that side virtual match when you having people and that's what it. Basically the violence account. But Martin said father was introduced in Paris.
+Yes.
+Nothing we can change with him, but yeah.
+OK, so all the differences scanman will fix that up itself so we don't actually have to change anything. It will send it through.
+Yes.
+Differences are handled by JD by DM. I don't like scanman.
+Functionality behind the scenes doing something.
+Yeah, I just wanted to talk about design ever talking. It was a manual that we change along with everything to fit. After all it says and no tolerance is well, so that's why I was just. Tolerance is turned on forever so they don't have to manually change them. They still do, but they don't have to.
+Yes, they changed at that time is well, that's good. Yeah, they don't know.
+So yeah, and the invoices always correct, meaning it's going to get changed to whatever the Invoice says, not what the P. Oh sis.
+Or is it the other way around? Invoices correctly? This will come back fireplace, but that's not necessarily the case, but yeah, but that that's that's how it works.
+Within Tolerancia
+so the next step after that is a reporting after that, yeah, yeah, yeah. So I didn't realize that you didn't have to do it manually. You may be with those tolerances. You could turn your tolerances on now and start.
+Yeah.
+Yeah, you could start next month if you wanted to.
+So I just wrote down here if no errors in OCR read on the freeway. Invoice will processed and in brackets with or without the tolerance kicking it.
+So if it's within tolerance, it'll be out a little bit on the mountain, but still OK and not hit the work bench.
+Only the two way and standard speed, yeah?
+OK.
+OK, so then if you guys remember this one which we flashed up yesterday really quickly, it kind of goes through the P. Oh process.
+Two way 3 way and then the standard, but I don't think we need to put this on the board because it's here and it's not quite great to remake it. Legal changes to it. So when we like we can talk through any of this right now if you want, but I think we we have to have a box between.
+In a payable or between scanman, invalidate the invoice. I think we need to stretch that out a bit because it scanman goes to read.
+The legal name on the invoice.
+Even if it is a perfect match for every reason on a 3 way match, if it's not the legal name, it's going to end up on the Workbench because the only, just like when we started about 3 way action, we gotta put the we gotta put the company number belongs to interesting you doing about German.
+Is that what can we give me? Add that to the agenda when we talk about exception handling like we I think we understand that it's looking for three things on freeway and two things and two way or not. But what else is it looking for? That's really critical, like phone number. We kind of talked about yesterday. Little bit legal entity like if we knew what those are then we can add that to our build activities to make sure that our address book and supplier master is pleased. And I had another thought we talked about for Canadian invoices looking for the phone number.
+But just like for all the Australian invoices, every vendor has her ebn ABN number on the invoice in Canada. Every vendor invoices legally required to have the GST number on it. So I would think that we should use the GST number for Canada and ABN number for Australia.
+I don't have an answer yet for USB 'cause UF doesn't carry either one of those.
+Experience is that they use a phone numbers, phone numbers for the UN. We use a lot of phone numbers. OK, so the US vendors will be phone numbers.
+'cause we.
+I know we got from work to do just like we have to make sure that all of our Canadian vendors had the G, the vendors GST number recorded. We don't have all those recorded either. We got work to do.
+The GST number in Canada doesn't change unless you're evil entity changes and that was a failure. There should be a really big threat. Red, white, blue, us using the phone number for Canadian vendors as a concern for me. This people change their phone number. Yeah, and then legal entity might still be the same legal entity, yeah?
+You can use both.
+Like the white board, have an easier.
+Have that stop and look for exceptions on phone number, legal entity, etc. Whatever that list happens to be, and then it will.
+Come back.
+Does that productively 3 way.
+It could happen on a 3 way yet.
+And then do this in Scanman Workbench too late three way.
+The three way will just go through.
+So based on what we talked about so far this week, have a listing.
+What do we wanna talk? What happens after they validate the invoice for the two way to 3 way? Or you just gonna use those on here it says.
+Except the invoice.
+Which is that? Is that part of this stuff right here? When you save decision making?
+Is that?
+Except Invoice accept inputs, there is more. The manual task where you check is this actually something we can process further which will mostly BS because she pretty check your mailbox for doing this. Yeah, so that's where the enrichment phase are coming. So maybe it comes in. But there's just it misread one letter 'cause there for example.
+OK.
+I think that can kind of be.
+In here, maybe it's a separate box that's kind of the same on the same.
+Area.
+Is that also could happen to three way?
+Do you guys think it's part of this exceptions box or is it a separate box for enrichment?
+Where did the image could happen?
+Before it gets here.
+Yeah, it's in the Workbench Workbench.
+So where is the work bench on their right here then?
+And it's going to happen there. OK, so I'll say 3 three way if enrichment required.
+What is this once new Mail?
+Well, that's just if we get a paper invoice, we have to smile.
+Open the Mail.
+An invoice in the Mail.
+Knowing you're doing fine, I'm just I'm just picturing so so there is. I don't know if this is right, but let's call it the inbox.
+Is going to be an email inbox or something, right?
+And then from the inbox. Then we have some kind of.
+Scanman processes evaluating these documents.
+And there's probably a series of check that goes through. So the first check is does the legal entity.
+This.
+It looks at all your information from JD Edwards, so it looks at your company so little and abuses. Then it will number in the vendor exists you want to have a each step are not well not, I don't. I don't know if we need to, but I just want to walk through this exercise. We can erase it and come back.
+So if this is a no.
+Then where does this go? Work bench work? It stays in. It's already in the works in the Workbench, but it must have a status or something. Yeah yeah, I'm not sure, but it's an error.
+It's an exception.
+OK.
+I can't read your writing if I'm going to race anyway.
+If it's yes.
+Then it must do another check. It's all in the same screen, so we probably yeah. And then there was a certain amount of field so it will be checking your errors book for the Fender supplier.
+Yeah, yeah.
+Um?
+And then so that if it exists or not, so it's looking at your address book.
+So you have to know when it's also every Workbench.
+And then it starts ticking amounts of rosemount, net amount tax, invoice date.
+Invoice number.
+Um?
+But more, uhm, an item lines.
+Purchase order
+OK. In purchase order an amount.
+That's part of the three way Wednesday, the third one.
+Net amount gross amount.
+OK, so we're receiving document. Yeah, right? So so this all this stuff really fits into this decision box. It says if it fails, it goes into Aaron work, right? If it's successful. So if it's yes.
+This is all here.
+If it's yes, then it goes to.
+Yeah.
+And then the AP person needs to put it on route to the approval.
+3 way it depends, yeah?
+If it's correct, if it's correct, yeah. If it's a happy invoice by Scanman.
+Yeah, an otherwise well. So the I think version is when when everything is correct.
+You she would enter.
+Approval which so we could go into approval OK?
+Yeah yeah, so this massive box in the middle is when it when it's all good approach. So yeah, so when you click through the process or it goes automatically depending.
+We decided that it 3 way if it matches up 100% automatically facility ready to pay them a space that is on.
+Step is a.
+The payments.
+OK, so if it's a 3 way it goes to based at this pace.
+That is odd.
+Ready for payment?
+And it is processed through your supplier Ledger so you can see it in your supplier Ledger.
+Over here.
+OK two way.
+Doesn't go to paste out of say it goes to match it with the purchase order and it goes. It goes for approval.
+So you you put in approval boot?
+Yep.
+So it goes into your organization.
+And when it comes back approved, it goes to supplier Ledger. Yeah yeah yeah these settings are. Yeah it goes down what is doing yeah OK yeah.
+There's a decision of nurse.
+Yeah, we talked about yesterday.
+And it might go back and forth a couple of times with Holdings added, but eventually ends up on face that is a.
+Yep.
+There's also isn't there one other thing you have to put the coding in? Because on the two way the coding is coming from the peo bright standard, it's not. Yeah that's we talked yesterday, probably going to pick up the phone, or you can use the Q&A feature coding.
+Yeah.
+Coding like you could do it a couple different ways. We could put it on the supplier master if we always noted it's always the same and it will derive that or you phone or you Keuning you don't think it's going to happen very much understand without without question coding needed according not needed.
+Yeah, yeah, I could go either way, so you might have some back and forth. Or it could go to the approval, right?
+Boo.
+Yeah.
+So and then.
+Yeah, well, there's that thing. We talked yesterday with the tolerance of it, so I guess that's that.
+And I thought my tolerance sends a couple different things we do.
+A little bit ago, so so then there's a whole process, and now we've exposed in error. And there's some kind of flow that needs to happen here to deal with it, and then it gets back on track and goes through here. Yeah, when you have the error, do you want to take a picture of this and then all races?
+Yeah, this is all I wanted to accomplish. We just get the ideas down in little document it next week.
+This stuff.
+Smile.
+No, he said no.
+Yeah.
+I'm cut it all. The only pictures.
+Oh yeah, it's good.
+It's not nice.
+Yeah, so you can if you want to do this now.
+This.
+Yeah.
+So.
+I was here.
+Let me think.
+I do have a PowerPoint for anything.
+You can send it to us and we can use it, but let's just looks like an hour before I just get that the basic step on Earth.
+So exceptions.
+Are about twice.
+And I think that's that's probably the reason why you have.
+Almost.
+What about if they can't read? Like if there's an ink splotch all like the enrichment thing that we heard about this subdivision just through visual right? That's enrichment, but I still feel like it should be a box. Maybe it's separate than exceptions.
+So I.
+We need a key after this too.
+So the icons.
+We got it. We got it.
+The top one.
+Play song.
+Got it.
+So.
+When OCR can read it, so that would be like for handwritten the invoices because.
+OCR company
+it can scan so you would see the schedule on your screen, but nothing probably be matched unless you have someone who can write like very neat and.
+For information in itself in skin.
+And then in these two cases.
+It depends. So when you have a difference in amount, it's either by your tolerances.
+Barnes and tournaments. There's also a difference, so we talked about tolerance yesterday with 10%.
+And you have a tolerance for supply.
+Global.
+I don't understand that.
+I never seen this. Yeah, like the global one is the JD standard. When we looked at yesterday, but this one by supplier I'm not sure that everyone understands.
+Yeah.
+11 up item number.
+11
+So this is something we need to decide.
+I'm used to having it like 1 cent.
+Talked about this morning and it's so, uh.
+Why would you need that over the other one?
+So this is the automatic part for your 3 way match. So when you 3 way match finds always difference demo sense.
+This is.
+Do we need to if we have the other one?
+Yeah.
+Does anyone have that set up right now?
+I don't think we have.
+How many suppliers do you have?
+2000 words
+hello
+no more than that about 35.
+But not all of them are.
+Download for free.
+Not over my current.
+No, not all my 3 way match. You only do this for three way match.
+And.
+Because it's not useful to use for the rest because demo 3 levels.
+Is it useful on a two way at all?
+OK.
+So you dormant spot and the other part. So sorry, we said that it's only good for DM AIC. So is there. Oh sorry, OK. I'm just gonna say so is the red DMA along with that.
+And the other thing. So you have the tolerances for the smaller difference. With that you can do yourself always automatically and the other one which is Department.
+Other receive.
+Receive it this way would go with. There is a difference and that we talked about yesterday with Darren.
+And actually both OK with if it's outside tolerance, it's going back.
+Yeah.
+That would also be with the quantities. Quantities would also go straight back there.
+Yeah.
+Because you don't know it.
+Decided.
+I know and said she's calling and unlike a traditional.
+Finance.
+And I think we should go here.
+Well, I probably should go there.
+Yes, yeah, that's what needs to be changed as well the The The Purchase Department and receiving Department chains as well. So only in AP Automate AP project this this is a project that's also for processing errors.
+And then if it didn't, Richmond AP will make the slight adjustment.
+Yeah.
+And then when everything's got, it goes back to our first chalk board, where.
+This when.
+He sold it will go.
+The normal way so it depends what it's.
+So 2.
+We met.
+3 way match or speeds.
+Same words and this other fool will be returned as well and.
+I'm here, so if it goes back to the purchaser in JD, how does it where? At what point does it come back? Does it come back to the work bench?
+I think this year we're doing this like you in a as well.
+Oh, and then Ashley or whoever will go into that peo, make the change and say, OK, it's done, yes, but it will have to go through approvals again on the peo side.
+So there's probably.
+On this flow there's that should we should go through that process, maybe on another tab of what that looks like because there's a couple steps there and.
+Standard rotation.
+And then once that's resolved, it will go back to the one of the three.
+And then a people follow these steps.
+We just have a 7 minutes left before our session starts, so just time check. So my understanding is that it's sitting in the work bench The whole time, it's just.
+They have two, so we've said you need to fix the purchase order. They fix the purchase order and then the system tries to validate.
+At increments whatever those increments are, and so at this the next increment that after the Peel is being fixed and approved, and it's ready to go, it will pick it up and say, OK, now it's good, and on it goes on its merry way.
+Yeah.
+Then once it gets to the supplier Ledger, it just follows the regular payment process that is really outside, so yeah.
+It will be your favorite bench.
+So based on current year, as is flow chart and the one we put together Diane, is there anything that you feel like we've not taken into account here? It seems overly simple.
+But
+way it should be.
+Waiting for us.
+Like we do so much for auditing and four.
+For controls and things like that, that seemed to be gone.
+So meaning things like you know we do batches and we print of- and make sure that everything is what you do within the system. No yeah yeah those are gonna be stronger person no. I'm not saying it's wrong, I'm just saying that that's something that is not there now, but one of the things we talked about and Brian mentioned at the beginning. As you may have to work with internal control to change our controls that they're looking for it. They will automation system now I know and that's what I'm just saying. Those are things we have to be aware of.
+And think about and how are we going to when we go to pay what? What is pork? Carrie Lynn got?
+To say yes, I am paying this.
+I just like she's there isn't going to be invoices printed that are behind to say she can open it because the invoices are also in your supply letter. Know I know, but we don't want her printing them off or she doesn't need to print though I know but.
+Because we are so used to that and the way we file things and the way we control things is going to be different.
+We can start with. This will document this and then I think we should catch up with David Blizzard on and say this is kind of what we're thinking of changes. There will be some other changes that trickle down because of this. To you know other things and will have to probably work that through like will go through the payment ones that we created and control. Yeah we written and then they ran through the Eli and it will make our audit simpler. Yes well this game is everywhere they want they want.
+And it really isn't the mental shift in your controls going from looking for signatures and.
+Access to JD Edwards.
+Our internal water just do they have access right now? I'm just. Yeah, that's something that we haven't done in the past now, but they're just like for payroll. They lot at the system at the system works for one. It will work every kind exactly the same way.
+Anyways, I think that's a good place to start, so just carry linen an in lore and what we were doing is just kind of.
+Everything we talked about before, we just kind of blew chart out into be and well documented and shared with the group. Probably next week.
+But we did catch a few things that we missed in our notes so that we talked about which is good.
+Do you wanna kick off with your items or do you want me to start? We can.
+49
+you're going to like any any exception handling that part of your regular agenda or these questions we can just pull them to the group and I'll take notes on if there's any.
+Follows required.
+Let me think.
+We can start on reporting.
+This is not. This is not a good morning.
+Separate correctly.
+The examples, but it was there.
+No no no no.
+Yeah, exactly.
+Some things you can do.
+Is available for you.
+Turn on their.
+OK yeah, let's do it.
+I'm.
+And then if you could log into the meeting.
+Hannah would like to see some examples of something I would like invoices with. Yeah, we already discussed the bits about Texas in the other meeting before this one. I would really like to see how you handle invoices with Texas.
+So can you show me an example of how you enter an invoice for taxes?
+And now I'm even more curious. When I heard a story about Alberta an PC.
+You --- Final result received. Reason: NoMatch. --- 
+And in the mean time, maybe I can ask something else. We already discussed that you receive hard copy invoices and PDF invoices. Is there another way that you receive invoices like XML or?
+Something else.
+Maybe that's it.
+Nope.
+We either get them by download a portal in Excel or.
+What other options do we have them in XML, XML invoices at Excel right know, know, know, know, know different electronic format, yeah?
+OK, it's not as big here for XML.
+Things automatically in Europe so this.
+I through that test scenario on there about the downloading their phone bills just 'cause someone mentioned, though that should be a test scenario. So as we go through today, we should have been doing this all along. But as we come up with these scenarios we should just drop them down somewhere and then when we get to actually writing the scripts, we know what our scenario was.
+So anyone can go up there and write anything and will try and describe it to the network. So at the end of the week and what I also saw in your SU current process, I saw a number of companies that we see the invoices and I'm just calling numbers without knowing what the companies are. So 100 and 7100 and 8100 and 75405 hundred, 28 and the miscellaneous.
+A miscellaneous yeah, I'm calling in miscellaneous because I, but there's like 1 and I'm like what company is it because?
+I I can't connect to a company that has no number.
+Hello is that the security business unit?
+Like when I think someone is, so I'm not surprised that you are answering the question. I know this because they're the ones that I can't see. Oh, so when we've had expensive computer that we've had expenses for people 'cause it brings out my batches at the end of the month.
+So if someone's left, but we've previously paid them an expense, their business unit for some reason changes from 603 to one, so then I can't see it, so it catch captures my batch. There's nothing wrong with my badge, but it captures it because it's a supply that we kept that we can't read. We have our security levels changed in accounts payable, so we couldn't see any name companies because some names very few, but some things are.
+The same.
+I want to be able to pick up anything that was from now.
+I've seen that one before, I just don't remember it was here or the other place, but we have done, well. We've got this one we put in.
+Dirty business unit wanted to for Canada in the US.
+To differentiate countries, first suppliers and things like that right? That's why you thought in the address book. You know I saw it in the in in your nodes, in your current process, maybe it was the table, right?
+So we can see everything from 600. Now I can't see anything she comes right below 600 so we have more than that for companies though. But this is companies that have vendor cables 380, three, 8165.
+We can send you the full list and does that impact your configuration like you set up or you just, uh, some aspirin is more, yeah?
+Sounds like one is little company.
+It's set up as a company, but I was just payroll.
+Company 1.
+It just triggered my attention because I'm like.
+OK, well we have to deal with that. There would be no. It has to be there for payroll, I know but but for her note not for her yet.
+OK, so for tax scanman.
+Just before we go on, there's a takeaway that you need. You need all the legal entities.
+OK, yeah.
+Legal entities that would be processed by Scanman and we have legal entities that do not get processed by Scanman and well, there's something else that I saw because I had a look at your system and I saw that you're using batch approval.
+I'm actually wondering if you use batch approval.
+We used match approval in Canada while in Nam to you guys add up all of you.
+For the whole company, because it was a global setting, it's a constant.
+Actually, you know.
+But it's turned on.
+Right, but if we're no longer entering vouchers in the system, we don't need that approval. That was going to make sure we could miss something in a large batch.
+It could be turned off. The Scanman is not going to miss something.
+And then if you really question with more like remark, yeah, yeah yes, it's generally I'm not used to using it. We Europe don't use it. Yeah, we don't use it at all because we do a batch.
+Staples, yeah, I know that's what you like here.
+It's another control.
+Oh yeah, so it's a constant.
+So we could turn it of-. Yeah, for Scanman, Yeah.
+It's a in your we don't like clicking.
+You have to click another time and that's what we don't like, so that's why we switched off and.
+And no one answered, enters its and we find that within amount of vouchers that we enter that it's a fast way of finding. So they take the float like all the batch 1st and then they see whether that voucher that it actually does come to that amount. It's very quick for them to say Oh I miss something for $100 or whatever the amount. And then they look for it.
+And then they also print everything and check it and check it.
+Because it's easier to find the errors then then it is after the fact, right? That's great. OK, so for taxes we have.
+In the states, we have two tux.
+Jurisdiction set up, and that's these two. So if they buy.
+Goods within these two jurisdictions there supposed to put a C an an LSJPPP on their on their.
+Purchase order an. It'll calculate the taxes for them in Canada.
+Most of our taxes are just VG St, so just this top one here GST.
+At 5%, and then if the goods are going to the sea.
+We have or are bought NBC we use so.
+The GST is just a be GST and the.
+Other where there's two layers, it's a C GST.
+Or PST or whatever it is. So for BC this is the one we use.
+For Saskatchewan this ones used for just PST.
+And.
+An.
+I don't really go.
+Australia.
+This one's accounts receivable, so you've got 1011.
+Beyond you, sorry, I know it's on their. We only use 1120.
+11 and 14.
+OK.
+So again, your Serbian, then PSG SG-11 or JD14.
+And so when when we create a purchase order.
+Who is the three top squares one you answer? Yes, you're going to have taxes or no. You're not having taxes and then you answer whether it's value added or I don't even know what the C stands for. I can right now.
+You add plus sales tax, yeah, so.
+I don't, but I don't know what the term is anyway. Whatever it's C. And then whichever one.
+The code is clickable.
+So it's LSB.
+LSPP
+Alice JP. Oh sorry, I was JPLSPPSPP PST PST.
+KPSTKPST do we still use this WGPST an?
+WG
+further water. Remember we had that self visit self assessment water where we had that Ellie we put that fo for water. Yeah that's because water is non taxable in an ad for GFC.
+So there.
+Therefore, you cannot take the input tax credit of it.
+Yeah, so there is.
+GST to be remitted.
+So we had to split up between sewer, which was talks that says that was super without were taxable in water expenses that were not taxable. So hopefully we're still doing that.
+We can take the input tax, credit some water.
+Related expenses.
+But that has nothing to do with Scanman, but that's something that would be yes, and I probably need to check with AP to make sure it's still happening properly.
+So and then, G11 and G14 are used in Australia.
+I just ask if anyone on the call Doug or Daniel can you hear us OK?
+Yeah, I can hear you can hear if you're presenting something I'm not seeing it.
+Yes, we do have something on the screen here.
+Then you can share your screen if you want where I think we're just about done. We were just looking at a screen G.
+But yeah, thanks Doug.
+Signed in.
+So you enter a C.
+And then Ellis GP or LSPP or.
+Yeah.
+I think Australia system looks more like our system, so that's more clear to me then.
+Too many taxes.
+This is also similar to Canadian system. It is, yeah, so you only have Louisiana, Let's say.
+What we set up 'cause I was gonna set up all the other we have fun. Yeah 52 right?
+We're probably in a dozen. OK, I see.
+Do you need anything else on the tax or is that good?
+Yeah.
+Serving papers.
+Bridge to the service date. So what code would you use for Texas if you had a Texas payable?
+It's a manual process, so you're doing it as a separate line and then coding it directly to state taxes or the expense or whatever.
+Well, Martin is having trouble connecting.
+Try again.
+Thanks for back up on that. Just on the phone are you able to see the screen?
+Or just here.
+Thank it on Skype, so I'll just have to do it this time. Audio old school.
+Will still share and for those for others on the call and for those in the room. So yesterday one of the items that we spent some time on in the morning with the business analyst was looking at the JD applications to process the invoice and we looked at. I think two or three different apps and we compared the processing options between the two versions and there was a couple fields that were different between the regions and one of them I believe you got an email on from Jennifer in last night on the service date.
+Versus the GL date.
+The question for you.
+So one of the questions we had was about the service pack four, so you may not be familiar with that field, but is 6 on the AP Ledger when he gets carried across from GM Ledger.
+It's normally defaulted prodigy and he went with someone. The service was done, or when the tax was recorded.
+But Australia, because it's be 40, two children. And what I understood that the buses that injected this field is redundant for after.
+So what we were told that the best practice for that service back to invoices.
+So my question to you match in in those actually wins the belt and if yes, do you do any records on this case?
+Let me confirm that with Hannah. I think she's the most likely to use it, so let me. I'll I'll ask her shoes and she don't use a GL level detail for multiple reporting. An not nothing I do, but maybe she does not let me confirm that.
+Do we want to go through the other ones and then the other one was the Currency?
+The exchange rate date.
+Is the same kind of thing where Martin this right now the?
+Currency exchange
+date.
+Um rate date. Sorry is being.
+Broadly and from the GL date, the.
+Choices are.
+Blank uses the Invoice State or one uses the GL date.
+And three exchange rate retrieval. I've never seen that. What does not do? That'll go to your FX exchange rate table.
+Are you setting up your exchange rates in the system so so it will derive it from that? But how how? How does it still no like? So if I have an invoice come in for January 3rd going to the exchange rate retrieval date isn't going to give it the date.
+To be honest, I've never seen two selected or three selected, and usually what I've seen is the blank, which is the invoice date, which really represents the data. The transaction much closer than the GL baked.
+So I'm use is the invoice date correct and Australia uses the GL date and we just need to come to a decision on using the same date?
+Same values as the previous question, right?
+Will it be?
+But it's over concept of the difference. This actually has an impact on here financial statement where the service next date did not. The reason probably why it doesn't use it is that they only had one currency.
+So we have one currently.
+Front like a a different tax rate through the AP system is where for now that's a regular daily occurrence for us, and the best practice is to use the invoice date. So does Australia have concern about moving to the invoice date?
+Or an expression.
+Just to confirm on that one, either I am.
+Is it just the AP module in?
+Open up.
+Shut down.
+Yeah yes which which application and master? Or is it about was JP.
+AP one.
+Yeah, that thing's company invoices that sort of thing irrelevant. It's you're talking about just the AP module.
+So we'll move to the invoice date, then would you ever have intercompany between APEC in Nam? Because we do, but it wouldn't flow through AP.
+No no, no. We throw we flow it through another intercompany account so.
+So with both of these when we hear back from Martin Bionis will we do this in a test.
+Could you just send Maine? Just if you guys can just send me an email just to unload any queries and I'll follow up later on, I'll come back to you guys.
+He wants to check with on this on the exchange currency date. Martin agreed that if it's only on the AP module.
+But I wanna confirm that to let me confirm that automatically.
+But I'm just, I'm just curious if honest and Martin are OK with it. Is this the type of thing that we would flip the test first before we do in Praderas?
+No, OK, if we already, it's a dip namas using at one way apex using the other. You know it works, they just have to change our process and the crew and she won't make a difference for a trick. So smart with the idea that we wanted to have these all wrapped up for this week an.
+Would that be something you would get back to us at the end of your work day today?
+Tomorrow.
+Hopefully you get the answers I need, I will.
+No, but I'd like to get it back before Friday. Yeah, yeah.
+Yeah, his his tomorrow is Friday.
+Can we not get it back at the end of the day?
+He's starting his day.
+So just to clarify on that exchange rate retrieval, Yeah, it's actually not option three. It's processing option 3.
+You can see it right here, so if it's flagged to one then it is going to go out to your exchange rate table.
+If that exchange rate does not exist, then you can trigger it to give you a warning. So yeah, it's irrelevant. Yeah, that's not the greatest report. OK? And then the last. The last one that's different on the master business.
+Functions is.
+The.
+It's under purchasing.
+An it says, do you allow changes of Deletions and vouchers?
+Under the P0411 module.
+Um, or does it return a warning message or an error message?
+Yours is blank to allow changes and deletions of vouchers.
+And I'm just telling you from very bad ICS.
+Variances, but that is not the best option to choose. You always wanted to return an error message because you do not want to be able to.
+Delete or change of voucher.
+Without going back to P. 4311 where the record was recorded in the first place.
+So by having it where they have it, if they.
+Actually update 1 table but not both tables that are required.
+Beauty should be everything to be In Sync yet, so I think our decision is we will change in Australia tenams processing option there. Yeah we can include this one though in the email and just so he has record of all three items and then you can check with an S and then get back to us, Yeah?
+Right, because the other one.
+I will defer to you. I never kept notes on them, but I know there was. I had the blank one there was that a prepayment one? Yeah, that's it doesn't. Doesn't matter. OK, and then the exchange rate, which is what we talked about.
+And I've got a question about your jail Dayton AP, What do you do?
+Well, which the LDA do you use when you enter any invoice? Is it the date of today? Yeah, it's a date of today and what do you do?
+January, the second, putting it for December, then you back dated to December. Like we have a couple of days a couple of days to close off so we can backdate it, but otherwise it's typically so your answer.
+She wishes I had an A in a piano piece also over here.
+You put it as the end of the month for all your cables or what? Yeah, yeah, we so we wait until this month is closed off before we. So between the last working day of the month and discuss working during the next month, we don't.
+Like this, nothing.
+Anything we just like to like his clothes for that month. Memory inside.
+Also, you would accrue everything else then.
+Yes, so you got retail on like a villages. Accrue some things and yeah.
+The way a crew, anything that we know of.
+OK, but the processing option could be the same for both. They just don't. They don't back date.
+Just for me.
+OK.
+So and then just said also for rent we.
+We change the GL date to be the first of the month of the rent.
+Whatever the wrenches. So if we get rent today, we're going to put it in as February 1st.
+We don't we close off now in the last day of the month we used to do what you said but you're like, yeah, we don't anymore. They closed up everything in the last day of the month. OK, sorry, So what don't you do? We don't back date. That was an old you don't processed from the old controller, no.
+Change, but you're right, it did.
+Or whatever that problem. And when an invoice. So like the invoice comes on the 7th of January for December.
+Immanuel.
+OK, thank you.
+OK, so just before we close this one off.
+Which both who's going to send the email to Martin Crane, their general?
+No, no, I just wanted to put someone's name on it, that's all.
+Evolve your involved working on it. OK, I think that's all we had then on the applications if that was it with the Big Three. Yeah OK awesome.
+Yeah, I think so. Is there anything else you want to see?
+Any questions you have many more.
+So I do have.
+Yeah, sure.
+I've never done.
+Setting up.
+I want to share something about.
+Voices that you can prepare for the OCR or the OCR is the part that recognize.
+Recognize your invoices.
+And then for that part you need to start collecting invoices and we will do like a 150 to recognize with.
+You should start collecting them and.
+I've been.
+I read all your information you sent me and I made a list of things. What I think you should think of and you don't have to agree with me. But think about them. So what I think you should do.
+And then there are also a few of them that are very obvious, but.
+Send me some difficulty invoices, so Jen already sent me a difficulty invoice. So the bit foods.
+But to me something that's difficult might not be difficult for you, so I don't know what's difficult. Time was not, so you have to decide what's a difficulty for for for the presentation. So do you still have all that?
+All those.
+Area that we yeah, we start with those and then is this the one we talked about sending a higher concentration of non ones? Because now it's going like first and maybe a smaller concentration but we can. I don't know what's what we want to do there.
+Something that you need to decide upon as a group and what to send to me and I'll work with Kerry Land and an and come up with examples in the document. You have 11? Yeah, we need 100 and 54150.
+Invoices because you want to get a flavor for what each of them look like in the different terminology that's used so you can program the OCR so that it knows peo number, order number or whatever. But yeah.
+Particularly want like exception type you want. Just maybe our top 50 and so suppliers or whichever one is we want to get going first. I'll continue with my list so.
+I want the invoices that have like two or three pages. Uh, I would like to have the invoices that exist of 30 pages, 3000 pages.
+Send me your large suppliers.
+You're important suppliers that need to be paid like immediately after go live, because those are important for you to go through the scanman process. After the life, we don't want them to be stopped in what way ever? So those need to be recognized.
+Suppliers that give you a hard time entering in the system now. So error suppliers or.
+So supplies that you have problems with now.
+Um?
+So this can be like suppliers with errors but also invoices with errors. So maybe you know of suppliers that are always have problems with.
+Crisis.
+Prices and quantities that don't.
+But I'm not compliant with your purchase orders or with your receives.
+Those kind of suppliers goes kind of invoices.
+Invoices that have prints on both sides.
+Yeah, and I always yeah also write down the handwritten. They won't be recognized, but we can still put them through but.
+Well, I'm not really sure if we should do that, but one sample. Yes, I know we have typical offshore has a laundry that's a handwritten invoice. Will use that as a sample. Yeah, OK.
+We have a lot of invoices that come in there like a cash register tape. Yeah, nada.
+Yeah.
+So that's when we want to give to them. Yeah, yeah, fine. The forms of all match for men is important, so we want different formats of invoices.
+From now I also want to know whatever in vendors we still have out there that we have not got the legal name changed on. I know it's not a lot anymore, but we need to deal with those 'cause they will fail in our system.
+We can get them also.
+Where we have to self assess.
+Hum.
+Yeah, so processed apps, 10 different invoices with different taxes.
+Um, multiple invoices on one invoice. So for the invoice split.
+Not sure if we have it, but just answer multiple iPad.
+Gmail.
+So and I want them anyway, digital less. So that's, uh.
+Different in speed, two way and three way match.
+And I wrote down invoices which is like very good remark.
+So.
+Invoices.
+Speed, speed or standard.
+Supposed to two way, 3 way probably yeah.
+Peter standard, but in particular the civil management ones that we're going to move away from a PO1, yeah?
+So that's something I mean less. Yeah, that's helpful.
+Think I captured most of that, so will sign that to Jenn and Karilyn. You guys can kind of think about collecting that. Only you can work with.
+I would like to have them quite fast as well, so.
+End of next week.
+We'll see it in the planning.
+Alright, so after the installation because the software needs to be installed, and when the software is installed we can teach the system how it needs to be done. So that's the moment when I actually need them, but I would like to see some of them up front so I can just check if you are doing OK with collecting them.
+So I'm giving you a thumbs up to continue.
+If just for me, yeah we could start gathering. It'll take some time because I had a customer and I would like to have different suppliers because I had one customer and they were sending me like 150.
+Invoices from one supplier which gave us an easy job.
+But that's not the intention.
+If you have maybe like 3 samples of an invoice from the one supply, because they're different villages who say how that would go through. Yeah yeah, we kind of got that right here with this one, but those are the same to me. This is the same invoice because, well, they the ones that actually have anything. I'm so sorry.
+The entity name is correct. Yeah no, but these influences.
+They have the invoice on the same place they have the date on the same place they have the amount on the same place.
+No needs, so this is really for programming. The OCR where it's looking for the values, not necessarily at the values are correct.
+So the more for, but the more formats you have. If it's the same vendor, had three formats and you can send it in, but at the same vendor has the same format on every invoice.
+He will come back for it when we get there is quite a few vendors that the formats almost identical, like on either they're using the same software to produce it. Yeah, yeah they all use QuickBooks or they all use those things that you keep in mind when you collecting the invoices and where you've collected them. Compare them.
+And see if it's necessary to send them.
+Multipage is good.
+We don't want a whole bunch of samples in just one page invoices.
+It's it's.
+So they came up with.
+Hum.
+Just in conversations when we talk about Scanman specific configuration. Yesterday we talked about the UTC that Bell program for invoice rejection reasons. So just a reminder that will have to get those together and send in. We made two decisions yesterday on the invoice approval route. We went with number 5 which started with the branch point and then cascaded and we decided to go with five days reminder email.
+Yep, Yep, we didn't decide of escalation. OK, because we talked about it just a bit, so we did reminders.
+But we can send reminders, but when no one is actually doing anything we can monitor. Yeah what's happening then?
+I was going to go to the person that was next the manager, so vendor two reminders. That's 10 days or after three reminders, like how long do you want to wait or remind that person before you escalate it?
+Cookie.
+Yeah.
+End of month.
+Good.
+At 24/7, improvements are going to have access.
+On their PC or on their mobile. Even a five day grace period is probably too long. Yes, they could do it like immediately. So do we move it to a three day reminder period and after two reminders, which is 6 days, we escalate?
+Is that it's only one extra day that gives them to reminders.
+2nd reminder triggers the escalation if they don't respond to the second reminder.
+It within 24 hours it escalates. Are the work a sore.
+Total days.
+And then the next time, then we can reduce. Maybe the five days they have to see which ones are doing the program that we chalk it down in three days and have the.
+I just know that the amount of emails or JD sends up is excessive, so you don't want to add the JD pool emails. Then scanman emails reminder and then another reminder. Gonna have a lot of emails. What are you? What do you receive from JD Edwards?
+Well, I mean otherwise do you receive for each batch that you process or so until patches order?
+A man approval every time someone edit.
+OK or changes it well. I think we can.
+I'm not sure I'm thinking buying them.
+Yeah, let's do a five day reminder. If you don't get it back in 24 hours, it gets escalated and will speak as we go.
+So five days reminder and then 24 hour escalation. And I will check if it's possible to combine reminders for approval.
+How do we get people approval reminders? Or is it just me?
+Before scanman
+I'm just thinking his.
+I'm not going to speak for everyone, but some people just come out.
+So they don't actually see them, yeah?
+If you.
+Yeah no, I think I thought they were separate actually so yeah.
+Yeah, if you can find it out then that might help. 'cause then at least you know that the scanman ones you can't get rid of him at work.
+They can't go to your clutter. That's right, that's right.
+Now, one thing that we had set up at another client is a watchlist around all of these approvals from the approval bench, work bench or whatever you want to call it so someone outside of that chain can kind of monitor and.
+You know, see how many stale approvals are actually are out there?
+Invoices.
+Maybe have a nice chat about it.
+Report that I can run them to say, OK, this is the. This is the approval route that consistently gets escalated. Yeah, you could build a report, but I'll watch list is online.
+Suck it up.
+Yeah, but that's not standard scanman you know as JD but.
+Not sure if you need ovr for that or not.
+You need what?
+Patience licensing for ovr yeah.
+It'll be out for watch lists, would licenses extra licenses.
+We did one point, but maybe they've changed it now I don't know.
+So can we testing for finding out about that or James and Lawrence?
+If we don't watch this is available online. It's yeah, I'll confirm that if licensing is required and then you can confirm if you actually have licensing.
+You don't have licensing.
+I'll find out.
+OK, and then we just talked about the JD company's legal entities, so will get those over to you. Only the ones that are going to Scanman Sony payroll ones, we won't have confirmed the tax set up.
+Confirm match approval. So I just want to talk about the address book and the supplier master really quickly on what we can expect to send to you or.
+Scanman can eat almost areas.
+Address book start with that one.
+Scanman recognizes your suppliers.
+And based upon information on your invoice and four.
+And that needs to be something that's on each invoice. So for the US we often use phone number.
+An and so for get about it would be your GST number.
+And for a pack it would be you ABR number because that's always only invoice.
+Oh sorry.
+But those.
+Number should be in your address book, otherwise they scanman can't find it because it's JD Edwards. So in a particular field.
+No, but I think your GST number will be in your fat number.
+I think for your address book.
+There's a there's a.
+There's a text number in your admin group.
+Is it?
+The first screen picture.
+There is actually the two text ideas in your Edwards group, or there's so an additional tax center.
+And a normal thing.
+And I don't know if you have your ABN number registered at.
+And it it is registered in your for suppliers in your address book.
+Where do you have it? Registered JD Edwards. What field do you put it in?
+It's just like there's an actual IBM number. Play the vocab override on the tax field. Do you know how to find the alias of that field?
+Just click into it, no, that's OK.
+So this is where we set them up. 'cause it goes in here and then if you were going into.
+So there's.
+But I.
+Field.
+Yeah.
+Or locality or whatever.
+Yeah yeah, OK, so we want to make sure that we put the Nam Ones in the same place.
+So basically scanman is doing a look up to a validity check on an. We can do it. We can kind of choose between those or we need all of them.
+Like when we talked about phone number, we talk about tax ID.
+Um?
+Phone number is in is in the standard JD Edwards fields.
+And then these are looking at if it Xfinity fields. OK, so I'll check, but that's what it.
+Keri Lynn, an Rus vendors don't put a tax ID number on their invoices, do they?
+OK, so it's not physically on the invoice.
+OK, so for the US vendors we would have to search on a phone number. They don't have a fixed number or.
+Invoices oh OK yeah.
+And it's only on we only get W.
+Right is it doesn't matter if it will you be getting for all it has to be able to read it off the invoice. So so phone number in that case for the web vendors we need the phone number that matches the invoices so it can say this belongs to vendor ABC.
+And we just thinking about that. A lot of the phone numbers that are entered in the system are the phone numbers that belong to the branch where we.
+Do the EMT payment too, because that's where people we called follow up to see if an invoice is paid or not, but some of the invoices. For example, there's grades in Fort Mccmurray and they've got one phone number.
+Now that's panel, sorry, so that's an example, but you can put in multiple phone numbers. OK, so you're going to have a phone number that's going to relate to the invoice that identified the invoice for Scanman, and then you can have three or four phone numbers for contact information when you want to physically phone somebody that scanman needs some field to say that this is vendor ABC.
+And the only way they can read that off of the invoices from field. OK, so going back to what you were saying.
+Some of our like companies have four different phone numbers listed on the On The Who's who for that one supplier. Does it have to have a phone type of a certain category for you to check?
+Answer like a who's who number like it's looking for number one or zero.
+Only have to do it for the US for the Canadian vendors will use their GST number and it's not invoice.
+It's not in the.
+What?
+Currently.
+Yeah, this is a setup.
+Set up a warning of some set up and clean up that is coming down the Plato. Not clean up 'cause you're there set up and we've got time so it's a project that we want to have a temp come in to do it because we'll take it offline.
+We also talked about that employee email address, but I think were OK there.
+For self-service, hey Lauren got all the email addresses in there for the Q&A.
+Features Scanman
+email address from the employee in the atmosphere.
+Yeah, that should be fine. OK, yeah.
+That's all I had written down from our discussion, so there may be others coming. Will confirm that in the next little bit, but just wanted to give the Group A heads up on will, not peace.
+Will be coming.
+And then supplier master.
+So we talked about a couple of things here. This supplier master was the flag with the order.
+OK, appeal required, and that's the three way. Yeah, yeah, we we asked with we haven't got a response yet, but as far as I can read it, read it. It has only to do with the VMA, so it's not that you can.
+Set it up as that certain suppliers are mandatory to have an order. Now Lauren, this is your question yesterday.
+On that like so, it sounds like probably not. Yeah, I think this is it. So it looks like it's only for VMA.
+Right, I thought you guys.
+Kind of enhanced VMA. Or did you rebuild? We did, but not too. Didn't start with the base. No. Not that it's like you can check the order required so that it's like for everywhere. That's not the intention.
+But we we we raise the question.
+If it's possible, but that's not, I don't think it's possible.
+I mean, we also talked about, I know.
+Talking with the BS is probably not likely, but if if we do have speed or standard vouchers that we always know they're going to the same GL code, that's something that we can set up on the supplier master as well, so we can think about that. Yeah, Diane already said that you have experience with it.
+This is the GL code on the supplier master for Standard misfeed vouchers, yeah?
+Just what would you call it a feature?
+Something that we could do.
+Yeah, just to go back to the earlier topic Diana, we did have a quick discussion and we're trying to think of other options.
+Now it won't validate for you, but we could look at a cafe 1.
+Between your supplier entry screen in the yeah. Yeah, in the category codes so.
+You know, at the point of entry that user would still have some visibility into whether supplier does require a P or not.
+But there is no validation. It will prevent them from not entry appeal.
+But it's better than having a list.
+On your desk.
+So something that could be explored you look a little puzzled, like do you understand cafe? Yeah, so we don't have it. You don't have cafe one. So so picture you know I'm on AP user I'm entering in my voucher. Let's use standard voucher.
+So half of my strange shows the standard voucher entry string, the other half of my monitor shows the address book soon as I pop in a supplier number into that voucher entry screen. It's going to dynamically update my address book portion to show whatever I need to show. So then from there you could then click on your category code and see yes. This supplier requires appear or not.
+So like like I said, it's just really for reference, but it it helps and it's simple to set on.
+People reading with you.
+Yeah, and you can attach it to the po entry screen as well.
+Then what we went mentioning. In fact, we could actually do the address book and one of the category code classifier suppliers and saying legal doctored or concerns or little as they do not have typically virtual other lights. And that's what this is useful. That's the ID, but that would be a manual check that yeah, it's a manual check, yeah?
+Some manual check so.
+Something to consider?
+The last thing I have here is that the teams have spent a lot of time on this vendor analysis. Just trying to look at what we got going on in that category code.
+So.
+I guess this conversation probably was good to have on like what the next step of that is like. Is there do we want to finish that? Taskov sounds like there's probably still some value, and going through it, but now that we know that it's not actually going to validate in Scanman, it's more just.
+How many transactions are we talking about?
+Why do you want? Why do you need this?
+We have like how many?
+Transactions.
+Thousands and thousands like I can't remember the number, but it's a huge.
+For us, it's a big number.
+Why do I? I don't understand. The business is so yeah, it's just because.
+We have so many.
+We don't have.
+A core group of people that create we have the core group of people that create purchase orders, but we have the people that do the requisitions 1st and.
+And a lot of them, including me. I don't know whether I'm supposed to create a purchase order or not. I could create a purchase order or a requisition. Sorry and then send it to the purchaser and they're going well.
+Did the requisition, so I'll create a purchase order, but I don't really need to an.
+There's all those. I think it's just more of A.
+Should I set up a P or not, yeah?
+Then when it comes in through through Scanman.
+Should the system he looking for a purchase order because we have so many vendors that don't put the purchase order number on the issue? Is that a vendor doesn't put the number on the invoice. Yeah, the intention was that the system would be smart enough to recognize. Note this vendor needs P. Oh, I don't have it on the invoice. You gotta send it back. Well or yeah.
+Does do we have a purchase order in the system that it should be trying to match against?
+It's not even going to look, I Know, and that's scary to me because.
+Discussion was going, yeah.
+Exactly OK, but we're expecting an automation tool to fix.
+Something that are vendors are not doing, and that's putting the number on the.
+On the on the invoice.
+Vendor for not following through there.
+But I agree, but it will cut or it's all maybe even the purchaser is not giving the purchase order number to the vendor to put on the invoice possibility. But those are internal controls that we need to resolve. I realize that, but if we had we control or how do we catch it? Because otherwise we're going to end up with all these.
+Arne not receive not voucher with open pose that.
+Turn up there to get caught in the Workbench Workbench that they're not going to processed through. You need to analyze them. You need to analyze they're going to stop.
+Because they don't have a job coding, and so we're going to send it of.-.
+To to get coded. It's going to come back code it.
+Send it over an we still have the peo sitting over there what we still have.
+With your purchase are and.
+He or she is the one who needs to close them so.
+Well, she's the one who has the problem with him or no, I agree, but if we can.
+If we can have some way to catch this up front or easier than make everybody's life a little bit easier.
+Vendor address book. We are able to say it requires a field, you are, but it doesn't validate again stuff, but it will come up on the Workbench right the The Invoice will come up on the work bench. AP will see that it requires at the oh.
+Baby, tell me you sure, but I don't know that that field on the address book is getting displayed in the can we do a cafe with Forza?
+Messages talking about Capital One, but it's a different place now, but you gotta go, yeah, yeah. And there's already cafe went in there anyways 'cause the PDF display.
+James and I looked at that field. It's got a whole bunch of ramifications on it if you click it, so I'd rather not. I'd rather just use a category code too. Well, it does a whole bunch of things behind the scenes if you click it.
+We just don't know the impacts on VM A at this point.
+Sorry.
+No, but with scanman you are.
+As if we were that field work, no, no, no, but scanman you will because you have a 3 way match and that will use TMA.
+And with those as well, but we also have invoices that only have a purchase or.
+We have two way match 3 way match and you have invoices with speed entry so that one confused because I thought earlier we set that field isn't getting checked by Scanman.
+Yeah, but not up front. When you enter the purchase order not to validate but normal.
+Forward on the weather. Looking for it on the purchase order side. I'm looking for on the voucher side up so OK.
+There it is.
+The Box is checked on the Irish book to say orders are required and then I voucher comes in and it's not. There's nothing on the paper invoice that got oversee yard, so it's not looking over to the purchasing system to do a two or three way looks at your orders right? Yes course.
+So scanman, we'll be looking and maintaining that check.
+That looks at your invoice purchase orders, any receives.
+But flag on the address I'm that's the question you sent back.
+Oh it will.
+How to make sure?
+It will send no. Sorry I sent the question to ask if it looks at that flag.
+But it will look at your orders.
+It looks for VMA looks at your orders to see if there's water. OK, so I have not only that's what it does, but I'm not sure if it looks at the flag.
+Well, if you buy passes on VM, AMA does look at that play the original fear standard, standard up, but I don't know what we have done.
+So it's not a special.
+Wasn't looking for that like they used on purchase order entry. OK, that's what I thought this.
+Really, we're looking to see if standard VMA functionality, this respected that feels being maintained instead now.
+Because it may help with this missing people number on the invoice copy.
+I think that's about all I had on supplier master. We did talk a little bit about an additional tolerance on the supplier with Jenn and Diane this morning.
+So I just made a note of it that we can come back to it and have a look at it, but.
+Is there any other questions on anything we've talked about so far on some of the JD set up clean up required?
+We'll see all of this when that functional document comes through next week, but just a heads up from what we.
+Uncovered in this session.
+OK.
+OK, so let's move to our next topic, reporting just really quickly. We started a conversation on our reporting strategy with Brian Moran.
+On our first date and I just made a note to come back to it a little bit. There's been a few times reporting has come up on the first day was the RMV delivery report, and then I understand you guys did have a chat about that yesterday.
+She went over everything and there was a big is missing, so I'm working with Diane and I think that she had brought Lauren in to see if we could build what we needed. An insight and or.
+Around like in Corda.
+Really, but I have, but I think the overarching issue is that we're saying that.
+The data is not connecting the general Ledger well, that's the goal is. Yeah, let me know we can get anything.
+First, looking at insight, but I think ultimately have to have any systems right? Because yeah, because the the scenario is you guys during month and reviews are going from HM or planning and drilling back into JD right? And we don't want to drill further to an invoice through something outside of that.
+OK, so I'll just leave that one with you for to keep working through.
+But yeah, we have to see if there's a solution, but there not. Then we have to look at.
+By changing.
+This is related to the 03. OK, so Diane kind of warned me that while we have agreed that that's the way we want to go, it's not an approved decision until we sort this out correctly.
+And.
+What's your time frame on this, is it?
+Pretty quickly by next week and hope to have an answer. Who is it within Lauren and I am OK?
+Next week we should for sure OK.
+Yeah.
+OK.
+OK, so that's that report. Also, we talked a little bit about a tolerance reporting yesterday, and I think James did some research on that and just let the group know what you found or didn't find. Yeah, didn't find so unfortunately there.
+Is no standard tolerance report.
+Provided by JD Edwards.
+So it would have to be something that would have to be built.
+So.
+You know there are some tables that you can take a look at. The 4311 is probably a good table to start with because it will. Is there an app on the front of it? But the business can look were you talking just data browser? I'm just talking to browser at this point.
+Because the nice thing about that table is you have three columns in there that you can start with. You got your original amount, your received amount, and then you're relieved amount so.
+And keep in mind I'm not trying to design the thing here, but in theory, if you have a difference between your and, you probably have to look at status 99, nine 99, right?
+But if you have a difference between your received in your original.
+In theory you have a tolerance in there right? And it is by line and then if you have a difference between you're relieved in your received, then you have a difference between a tolerance between your voucher matching and receipt. So as far as designing a report like that goes, that would probably be the first place to start.
+It's only dollars, but there are also quantity fields as well. Same thing. So you could look at it from a quantity perspective as well.
+Waiting for which post?
+You're going to have to build some code or you could maybe tie in joint ear. Cardex table or something because it will for stock items that item will be in your 4311 as well so you got line tightener inventory.
+It splits it splits your original cost. Whatever you were going to pay. If you just looking for tolerances.
+It splits the difference into a separate line in the car decks. Yeah, so I don't remember the tables, but no no. But if I don't know how it looks in there, but I know in the car decks it does split it.
+And then learn to to your point. Yesterday you talked about maybe a different line type.
+For added lines or something like that so.
+Line type exists in the 4311, so you could. I used to like that as well.
+You know the end of the day would have to be designed right so?
+So that would only be added lines would be different.
+OK will will will add an area for reporting on the project plan then.
+As we move through this, if we feel like we want to have a customer court there, then will just make sure it's scoped into work.
+Hum.
+The last item I had on here was kind of a question on.
+The spend reporting that we currently have no Diane has had some meetings on this with her with a smaller team that has looked at this and this was really just a question on how do you guys get spend reporting on standard vouchers and speed vouchers? Do you delete it? Is there anything that we need to?
+Take into account to have something built for you.
+I think we talked about mostly just.
+Modifying artists system feels based on what was built here.
+It's going to be processed through here. If it's still going to be a match type one or two, then are reports of Bulletin.
+But I don't know what match type one or two days weather not.
+And I just type like in the purchasing site.
+No, no match type one and receipt and match tattoos about you.
+Voucher then that means it has to be appeal so any speed vouchers do not go in there.
+They don't go in there now though either. No? Yeah, exactly.
+So is it something that we need to add to the plan to get those reports fixed up? Or I know Danielle is looking for a lot of changes to the spend analysis that she gets because she's not getting you're not getting sorry. I'm talking like you're not here so.
+You're not getting any.
+Band analysis on speed voucher.
+It doesn't.
+As much.
+As if we start going to more and more days.
+Music family friend is an opening for you. So when I start encroaching on the vendors that might be at risk for not going to have some recording. That's a huge
+right.
+So you wouldn't use CAD code 13 or 14 from your address book.
+To drive that but.
+But again, the spend analysis reports that they have are all of the either the 4311.
+Or the 43121 tables? They're not off the zero 411 tables.
+Yeah, so we've got was interesting. OK, we've got a little.
+Short not short sighted, but we focused on the purchasing side of spending analysis as opposed to the vendor site.
+Just telling it within a week automation.
+And that's what I wanted.
+We have some information from him too. That is from the.
+So we would have to look at all of them.
+And we have some follow-up them for recording.
+Margaritas.
+Play music.
+I don't know. They left you quickly. It wasn't me.
+And then also we have one report that we think is coming from the catalogs, but when I the difference between the prices in the catalog versus what's on the P? Oh, but when I dwelled into the actual report, it wasn't reporting that way, and so.
+Darren has the report that.
+He says is reporting that way, and so we want to see if we can.
+Leverage that report as well. So there's there's a bunch of work it? Well, that's good that it we're getting it out so well. At least we can have some placeholders for it on the plans. We can slide it in there somewhere, but.
+That's all I had on reporting. Is there anything else?
+We can think of right now.
+So there's all kinds of reports and you were saying that scanman doesn't really do any reporting or very little, so anything that we want to count. How many?
+Exceptions or how many?
+Invoices went through properly.
+We have to do off online so real time are PST report for the Canadian.
+Stadium vendors
+It's not running off of a table. That's going to happen as well, or it's gonna be fun.
+When you say online, is that just really hard application interactive, like exporting grids and stuff like that?
+Like a dashboard right in your application.
+So it's available, just not paper forms.
+Yeah, actually staying there, but you could see it in the Workbench.
+OK.
+OK, so that's reporting.
+OK so I have only two things left so that the second last thing is the project plan milestones. So I'm going to share my screen.
+So we can just get an idea of.
+Based on this week, what we're kind of looking at for some dates tentatively.
+OK.
+So based on what we know today and what we've kind of found out through this week, where.
+I just started to design. Obviously we've been working alot planning prior to this, but design is this week and that's going to go into next week as we finalize our decisions and once we finalize our decisions by the end of next week, Hannah Lori team will send us back that functional design document that we will then review and sign off.
+That's going to take us all the way to February 14.
+We will have to identify who's signing that off, but I'm thinking Eli Jen.
+Preliminary.
+You can write my name on it, but I'm not signing it slow but this.
+But that's probably and maybe the BA is to just so everyone can have a look at it. Everyone needs to read it because it should be re presentation from what we discussed here and things that I read in your chair. Read in your analyzes and what we think that's necessary for your business and what should be best. Friend will send it out. Everyone can read it, but just the actual sign off piece will figure out who needs to do that, but that will take us to February 14.
+Right after that someone's force, I gets that document back there going to work on the install and configuration. So this is more technical stuff. At this point they'll need the invoices, yes.
+150 invoices, so no, not immediately, but before February 24 OK.
+So I'll simply just a few, so some 25 as we get them sent him through. Yes, OK. So no later than will say like February 24.
+And before that just send few.
+And while Forza is working on that install and config tasks, we will be working on our process changes, so if for moving forward with the 03, changing them over to NS, the tolerance.
+Not using that modification anymore, I'm moving to the standard. All of those kind of things we will work on during that period, so starting.
+February 17th all the way up until March 16th.
+Yeah, I don't know what to call it, but will breakdown each of those tasks.
+And all the reporting will fall into their two, so anything that we've identified as tasks on the civil side will fall into this, and the next thing we're going to do is look at what all those tasks are as of as we've been going through the week, I've been jotting them down so that they can become tasks on the project plan, and hopefully we can put them into that month.
+Very can you clean up? Yeah, things like that. Yeah all of that stuff in the the install.
+Activity that can be pulled back. We can start that pending availability, but install doesn't have to wait for design Spanish.
+Do you need that document signed? The document we wanted document site.
+Before we do the install.
+Really.
+So that's a document which isn't global sign up.
+OK, so that's that's that. Once that's all done, then we'll be doing some training, and that looks like it's going to be on site here. We haven't totally talked about training documentation that we're going to talk about tomorrow, but just some initial conversations. It often goes better when we've got someone here, so we may bring back a Forza training person to do some training.
+So probably going to be about a week.
+There about somewhere of March 23rd area.
+Sorry.
+Google.
+No America only.
+This is just for North America, so at some point we need to decide like do we train a pack at the same time or do we?
+We do we wait until you're closer to your whole life so I don't know the answer to that right now.
+We have to discuss it, yeah?
+I I'd be curious for some feedback on what we think is the best thing to do, like definitely with some of the build activities 'cause we're global. I think we need to do those together. Just makes sense.
+Yeah yeah, yeah so.
+Really, it's maybe just the go live in the cutover tasks that get split so we're doing or.
+Now go live and not impact on life because.
+That was a decision made earlier I think. Back in 2019.
+When there wasn't as many resources available, an Australian side 'cause they were busy with RMS and other projects and another. Do you have any good ideas with Glenn? Yeah, yeah definitely yeah.
+Life can be.
+Going to be a subset of vendors to write, you can read.
+Yeah, have life.
+Forward all the invoice.
+Scanman, but how do you? How do you then use your AP modules, your programs going and then is turned them off again?
+It's a security.
+Issue really an menu issue.
+Use the email address you know, like I mean room.
+Direct to another sub email address and then from that sort email address can. I can really.
+Hello.
+That sounds pretty messy and opening up security.
+I'm not suggesting.
+Turning security off your not opening it up 'cause it's already there.
+Potentially entering the invoice twice.
+No, no, no can. System will let you have the same invoices I talked.
+OK, well I think we should take that one off line with Doug and we can talk about it more tomorrow. But yeah, yeah I just wanted to start the conversation some thinking on it if this is what the timeline is looking like you have to go back. Did you already have kind of a date set for a pack at all or now? It's kind of open ended right now.
+Yeah it was just after we wanted to try and get something a little bit more firm and for that for Joanne to do some planning within where she was going to slot it in so we could do some resource planning and Whatnot. But the point of this week or one of the deliverables was to go back and see if we could.
+And get something for a pack.
+Not not. Not to belabor, but I think I know that here now we have vendors assigned to AP quote by output, right?
+So you could pick a section of the alphabet and then the person that's responsible for that could take their security wage of the standard JD.
+Voucher apps and then there are the pilot group to start with Scanman.
+You need back later on YouTube.
+Or both? I don't know. I just talked about.
+We did talk about using some number Agile Project Management Methodologies in this project, and really what that means is we pick a time and not drives what?
+What's up?
+We pick a time in our costs in that kind of drives the scope. So if we can only fit.
+A through H in there for vendors. That's what we go with and then the rest we do later. Or maybe we go by exceptions, the ones that are really really very small. Yeah, yeah we can talk about it more, but we did talk about having just on the civil side that being an option that we could explore. I think most of the civil management was comfortable with that, so something we can talk about.
+If you guys are happy to wait then.
+Sometimes it's.
+Yeah.
+We have a project steering committee.
+So just invoiced pointed at the main drive by. That is obviously the integration of action, which is in the next month 11. You villages for new company coming in a $90,000,000 worth revenue, been integrated into JD and default was to do have so many concurrent projects. the AP automation was going to be difficult to fit in in the same time frame.
+He actually monitor major project is also obviously automatically feeling. It's just a lot about.
+1001
+Better than action is a lot of light processed the moment and stuff.
+His own foot point and every reason. Reason for saying that the authorities would be difficult for this project. I'll bring it up on the steering committee call tomorrow. The projects turn community and then Vanessa can touch base with you Martin. Then based on what you see here, you can kind of let us know what you might be thinking and we'll just go from there.
+OK, so so back to the testing so their handlers plan had originally had that starting. I think April one or end of March but just one thing we noticed right off the bat was that would fall in quarter end in month end. So we push that out too. I think the 7th or 8th whenever we figured that might be done.
+And that would take about to the end of April.
+To do all the testing.
+And that's where we'll need all of our test scenarios and test scripts done by so another one of the the deliverables in today's workshop was to start thinking about those scenarios, and we have two up there, and I know we've talked about a lot of different scenarios through the course of this workshop, so that will be a task for Jenn, and Caroline is to start thinking about those scenarios that.
+We know maybe problems or that we want to test and the test scripts will actually be Curran and Mike and Diane.
+Hopefully we can leverage some solutions groups.
+Mother of work that we have on that, but that's that's the time frame work that we need. All that work done by.
+Then start of end of April started may we be looking at cutover tasks and I think that was more technical right. That was the production set up.
+It's not so much on the on the business side of technical and then into a goal. Live at this point May 18th.
+It's.
+Is where things look like they're going to land.
+So just going back to the build stage for Silvio, that's going to be done concurrently in both PY and PD.
+Well, that was something to think about. Yeah, like. Typically that would. That would be what you do when we were talking about like the versions. That was my question, do you change these things and PY person do some testing or.
+Yeah.
+OK.
+Yes.
+Yeah, it has two runs. Yeah yeah it's a one and two so the first one is just their sort of your unit test and then the second one is a UAT where they sign off right question would be if we want to make it more agile, why would we?
+Have lots of small testing periods.
+Exploring certain types of things online. Is there anyway to segment the worked?
+In 40 invoices in such a way that we can say OK, this one type common type, we can do it. We can do it quickly. We can take a lot, test, test, implement, test, go, live, implement, test, go live in the test, so there's. So it's more structured. We're going live really fast on stuff as opposed to OK. We have a whole bunch of testing and we gotta sign off on everything and everything has to work before we go live. I'd rather do it as we've done our other agile projects that actually get done. We find something very small goal. I write something very small gold.
+You can do it, but it will still cost the amount of time.
+It just happened to be going.
+What you do with that way, because then you will end one process, so you will do like the speed entry. Yeah, whatever test speed entry and then you've done the process. It's finished. We can start working on errors if there are any, and you can continue with two way match and in the time that you are testing two way match we can resolve issues. And if we've resolved them you can retest the speed entry and then we can start resolving.
+Two way match errors and so we could do the agile on speed. Two way 3 way and move some of them through.
+I doubt that I start going live in in April instead of May.
+Hello.
+Faster Iban and using the system faster, Yeah, but you still can go life because the whole software needs to be packaged and build to production after.
+Everything is tested OK.
+So we can do the testing that way. This thing can be done in an agile way, but the way I've got it the way I've got to take it and go to production, I gotta take the whole thing along. How do I do incremental changes later? Then everything is in production and it's fine.
+OK, so I make a small incremental change that I just take that production.
+Why can't I do it that way? Because they need to be serviced. Bill Dorman.
+These need to be processed through production internal dependencies mostly.
+Do you want to?
+Come down tomorrow sometime. Well, we're going to put this on.
+On the part losses I might like to keep demo we I have it on our agenda for tomorrow morning to chat about that 'cause we haven't gotten to that yet, but.
+OK.
+OK, so pending how that discussion goes.
+Under that, under this week. At this point, just with your traditional waterfall style project management, one thing after another. This is where we would end up.
+OK.
+Any questions?
+OK.
+So that's really. That's really all we have.
+On the agenda today, like we could, I do want to spend a little bit of time just on a rap up. I'm going through some of the items that we talked about, but it's kind of an overview at this point. I just want to make sure that we've got all the decisions that we made an any tasks that are that we agreed on so you can spend some time going through that will look at the parking lot of what was on there. I'll go back to our deliverables to make sure that we got what we needed out of this session and then.
+That's pretty much it.
+OK.
+So we won't go through this in too much detail. I will send.
+Is out to the group, but just.
+The first thing that we kind of looked at was the standardization topic. 1, six, and seven, which all had to do with consolidating the peo doctypes between the regions. So we started out with eight when we started this project and what we've come to is that the O PS, which is a 3 way match will be status quo. That's the decision we made will processed through much of Scanman Tauren, same thing.
+The difference between the two is the cross dock receiver step.
+Are the old trees. There was consensus from the group that we wanted to stop using these.
+So the decision here is that we were going to use drawdowns Anna. Nope, take three. So I'm just going to put a caveat on this is not really a decision yet. It's a decision outstanding.
+On the.
+Yeah, on the report on the reporting, basically well for the test to ensure that gets the GLC is not a report on GL account. Ledger inquiry.
+Will be updated.
+And that's with Diane and more.
+And they've they're thinking early next week. They should have something on that. So if that goes as planned, if we do end up eliminating those, these are some of the tasks.
+That will become part of the project plan. They will have to execute in order to make this change.
+It's very small, yes, yes.
+So just and what will have to do is we'll have to estimate how much effort these tasks are who will be assigned so that we can see if that window that we have of four weeks is going to Suffice for all this work that has to be done. But this is just some of the examples of what we talked about in the session.
+So I'm sure there's more that will flush out as we as we start looking at this in more detail.
+So moving on to OF this is a 3 way match for food services, so we didn't discuss it in the workshop this week, but we have discussed it in the city of standardization meetings and at this point we're just going to leave it status quo. It's going to processes a 3 way match in Scanman because there are some implications of this one that are outside the scope of this project. I've got some examples there, so we put it on the parking lot to look at. If you're ever looking at an inventory project 'cause some of the implications definitely fall in the inventory side.
+Not on the AP automation side.
+Doctype 02 is are two way match for services, consulting electrical, so the decision here was just to remain status cool on this. It's going to process as a two way match in Scanman, which means there's an approval route on the P oh in the branch point, which is standard JD Edwards, and there's also an approval on the invoice. That's the Scanman specific configuration that's when we talked about yesterday, where it's level 5 it will get the reminder emails.
+Escalation.
+I'm a note from Ashley is that S may look at eliminating this later down the road 'cause they might throw in a receiving step, but it's parking lot because it's not really in scope for this project. It was just done.
+Something that came up.
+There was a task here just to follow up with the US side of things that supply chain by your conversation that's got Nelly had just on the process side. If there's anything we need to investigate further to streamline how that process works. So I've already started discussions. Good, OK, great.
+I've got some questions that were asked, so we don't just part of my notes. I don't know the answer to or not, but.
+Another decision we made here was select pre approved vendors in all regions that either do not require a P oh or have appeal created after the invoices received will actually move to speed and standard voucher. So this would include some of the 528.
+Not all of it, but some of the ones that Caroline is probably is doing all of 528 because they're all created wasn't after the spin. The invoices, that's right.
+Yeah.
+I'm just creating spreadsheet to see which vendors there so that we can identify them and put them OK. So at the vendors that are the fields that are created in Houston. Sorry sorry, other ones that we would look at doing an invoice direct on, but so you're saying if they buy stationary.
+You're going to. You're going to have that.
+Done after the fact, even though we're saying stationary needs to have a peo.
+Let's see what the list is right now. They're doing it after the fact.
+So and then sending it to Caroline to be approved.
+So it could be a process change, but we have to investigate, yeah, so right now there are. They are, oh, twos. So that's why the decision was made here. But actually when we get to the next bullet on the speed and standard voucher is where the actual tasks will be on this one. So if we just.
+Skip cut it down to that we need to do that vendor analysis that Ashley is working on and look at, you know, the five to Houston and just see which ones in there are going to be the ones that are going to go to speedlites speeding standard and if.
+They don't happen to belong there, then they'll move back up to two or three or whatever.
+Not appeal after the fact word.
+After the invoice comes in, simply to invoke the approval, running yes, yes.
+So with.
+Boy yeah in by computer right? So we have a budget. So like we know what the audit budget is and then we buy action and that audit budget automatically goes up $300,000. We don't do anything to change other than we know it so that we could add another person or other things. You could probably do it. We don't do it that way.
+This will get the approval in there an actually have some deficiencies.
+Yeah, so this is kind of to Danielle's point if that list of standard and speed voucher starts growing, they lose some of their reporting the way it currently is. So but its aboriginal reporting that she is yeah and this is not aboriginal recording.
+Coming out of Houston for the things that they're doing with based on most of the stuff that I get, his stuff that we can. I get a quote before they send the invoice. Although Oracle stuff, they send us a quote.
+Purchase order and then they send it invoice at some point. But if the reason that we're doing the Po after the fact is simply to get an approval, wrote attached to it so that you can get an electronic approval in the system, you got approval routing on speed vouchers now, absolutely right? That's what we should be doing.
+That's a decision, so it's just going through and identifying which ones in the 528 Houston Group that's applicable to, and which ones it isn't. Same thing on Canada and Australia side. That should be done to identify which vendors we want that to work for, and I don't know what the next step on that would be is it? Is it letting you know Ashley so you can update your documentation on what?
+Category types fall into that group meeting.
+I'd like to have a conversation with this group initially to go over it and then sit down with Ellis Group and and Diane to go over the list that we've already created and then Australia as well. I think they have. They have a couple in there, but or actually I don't know how many. There's lots, but whether it's status quo or you're adding or taking away based on how this workshop is gone, it didn't sound like throughout this workshop it was growing exponentially.
+But
+it's not just Houston. There should be things probably globally. They can be speed voucher that only purchase order, right? We decided on.
+Yeah, like it like some of the invoices.
+Invoices.
+That's kind of part of this like we've talked about it. I don't think we made a decision on what those categories or vendors are yet, but that's what has to happen here. We have to identify what those vendors or categories are, so that should save a lot of time in airports, or that we don't.
+Yes.
+And then keeping in mind the reporting.
+And then also on this one there's that note about the GL code. It's also what we talked about earlier on the supply master. If we want to. It's a future we can. We can take advantage of. So just sorry to go back yet, so just want anything.
+Subcontractors.
+Yeah.
+And that's just for RJ SI report.
+Commitments and stuff. Yeah, exactly. It wouldn't be included, yeah?
+Is it we use a different document type or is it don't use it anymore?
+The document I PS. Oh yeah, we found one value in there though right? There wasn't? Yeah 2016.
+Sorry, I wanted to know which side on other cost plus.
+Appeal.
+Thing to keep in mind about recording an invoice in for that, waiting on an invoice we speed about was a delay in that right. There's appeal for vendors related and so on that invoices received hitting the books and then we have that flag as possible.
+We have a short window spell. Yeah, I don't think we're going to see, but I just want to make sure. Those kind of vendors aren't really the ones we're looking at, so we might not be. Yeah, we should be making sure that we have that in mind. Making the process says if it's a cost plus, right?
+Yeah, I added by level like legal and PwC invoices. Maybe tell is that sort of thing.
+I'm just making sure I added it as a consideration so we won't lose sight of it. Just just in case.
+OK, so that's the.
+Standard pressure.
+So moving on from the Peo Doctype.
+Conversation, so we went from 8.
+Down to four as.
+As being in scope for this project, which is just pretty good, I think the other ones are out of scope because they just there. They're not material to this project, or we're not going to use them anymore. Hopefully the promise with 030 else and Australia, they don't use those anymore, so that's kind of where we ended up there.
+So the technical session that we had, we talked about the in boxes. So right now there's three in boxes, and the two be process that we're going to look at is too. So in North America, payables in Australia payables.
+So there's some tasks here that we need to follow up with Charlotte on on that comment. If they were using them to compare some data sheets.
+I'm not sure what it was about, but will follow up with her on that.
+L you said you would touch base with her.
+Same thing on the Canada side. Will just check with the lodges. Make sure there's no invoices that are going directly to the lodges and you want to make sure that they re directed to be registered in Scanman AP Ables. Same thing just check with the villages 'cause I think there was a couple that we said we're going straight to the villages that we want to redirect into the APAC cables.
+And two new in box is really just one, but a PY in the PD and I think chair. If you were going to reach out to Richard Bar on the naming convention of what that inbox was going to look like. Yes, yeah, so far we set the standard for. Was it simply said Civ dash scanman, but we should just confirm it with Richard in case there's a new convention there will have a PY into PD.
+So the decision, and I'll see if it's possible to have one yet, since we probably have to work benches OK, yeah, so the decision here was for the USB cable to be combined with the NA payables.
+And vendors will continue to send emails to the existing enables an APAC tables in boxes and then it's the AP departments that will monitor them in boxes, going and forward the invoices to the scanman inbox is.
+So of course we chose to do that because that will keep our work bench in JD Edwards clean, not have any junk Mail or do pit invoices.
+Yes, when email comes in, is there a limit to how many invoices can be attached in that email? Like that they sent to? Or if they sent 30?
+Scanman if we just pushkin window.
+And then just some tasks that we uncovered in that session which are all under control. Some are already underway, so I'll make sure when they get to project plan their updated.
+This is about the technical document that handler will send to us. Lawrence already sent the CMC invoice, sorry. Contact info.
+And then you'll send us the analyst names we can provision.
+Want to the city of standardization? Topic of?
+The overview of JD applications to process it invoice. So this is just making sure that actually how we process the invoices standard between the regions. So we looked at the current setup was we had a modification on the invoice.
+And then we had that JD standard tolerance which was per line of the invoice. And so we reviewed all of that first with the BS and the consultants and then with the business yesterday a couple tasks have come out of it.
+That Korean has just to look at that version for the APEC Master business function. Just going to work on that that asked for reviewing the processing options we actually did in the session today, so that's done with the exception of Martin is going to review it with an S and get back to us, but it sounds like there shouldn't be any issues there but will just wait to hear back from Martin on that one.
+And those are the three bullet points.
+And then Forza will send us the New Scanman Interactive apps later and we'll just have to set those processing options as well. There may be some new. Yeah, yeah, that'll be part of that.
+So moving on to Silvio standardization topic #2, which was tolerance. This is a bit of Redundancy on what we just talked about, so the decisions that we made here was we're going to remove or discontinue the use of the modification on the.
+Tolerance per invoice and actually we already have done some testing on that earlier this morning, so that's good what we're going to move forward with is the standard JD tolerance per line, and the decision is to start with the 10% of valued quantity at time of voucher up to a maximum of $100.
+Another decision we made is that if the Invoice Falls outside of the tolerance provision, it will go back to SCM to correct po, and both Darren and Ashley were on board with that.
+If it falls within the tolerance, it'll just processed through one of the tasks here was to test that the AI is can drive that tolerance about back to the original peo coding which we tested this morning and not look good. So some of these are done already. As I said, the one right before that James Kern engine were testing the JD standard tolerance today.
+And then the last one I have is the testing that the scanman flag on the supplier master requires po is going to work and we talked about that.
+Any questions on that?
+Hey.
+Scanman configuration, we just actually went through all of this, so we really only made two decisions in this. The rest are going to be tasks that will be assigned to either Forza or Silvio of information that will exchange.
+Um?
+The big one here is going to be the address book and the supplier master clean up reviews.
+So we want to start looking at that on the studio side sooner than later. This will be big tasks for the watch list there if you could just add. We still need to confirm the licensing requirement for ovr.
+And reached out our guys just waiting for a response.
+Um?
+Yeah, and then I added just the cafe one 'cause we had a conversation about that as well. I think that similar.
+I guess it's not the same conversation, but it's related.
+But no licensing requirement that's part of your tools.
+To be processed flowcharting so this is one of the deliverables that we had early on in our or that we went through on our kickoff. And So what we've done on the Chalkboard in the back is we've erased it a few times but we started putting putting down what the TV process is going to look like and we never expected to document and finalize it this week. But we have got a really good start on it.
+And will continue working on that into next week so that we.
+Make sure we have accounted for everything and even just trying to get it down this morning we found a couple things that we needed to ask some questions on so it will come in handy with that functional document.
+And this is just a little chart of the scanman processing options and how things.
+Things are going to work just 'cause there was some earlier.
+Clarity that we needed or not, so hopefully this will help.
+So moving on to reporting.
+Really, all we've in covered here is that we do need to have some reporting bandwidth built into the project, so will look at the tolerance. That could be a custom report. Will look at the spend reporting, will look at the catalogue report identified in a pack from Darren are envy deliveries with Diane Nash demo some more and more. So Diane at this point and this will impact that decision to move. Remove the ovaries.
+And any scanman metrics that we want to do is.
+Kind of on us, but we will look at grid exports and things within the interactive app.
+Queries we can use as well.
+Like the advanced Greece talk personal forms you deos covers it all.
+I'm project planning wise.
+We reviewed the high level milestones to the team. There's an action item that we're going to look at some agile methodologies in there tomorrow morning.
+We looked at tentative dates of the configuration phase and some of the Tasks in here.
+Are the 150 invoices that force is going to need and I just made?
+Some quick notes on what some of the examples we want to watch for are all update this tentative date, but I think we said.
+Towards the end of February, with a hard deadline, but will send on board. So I'll update that.
+And then receiving that functional document by next week.
+And then us reviewing it in signing it off by the 14th.
+The design and build phase.
+Is what we saw on that.
+PowerPoint, so I'll update the dates on here and it's going to be tasks like the two be process Flowchart finalizing that's on the Chalkboard. Discontinuing the 03 doctypes. If that decision is made starting to GOP drawdown, the tolerance changes. In Australia, the inbox email redirecting to North America payables.
+Invoice clean up so this is anything from making sure that our vendors are sending to the correct legal entity.
+Anything that we think will become an exception.
+In Scanman it's a good time to start working on line, so we've got a lot of work to do, and then reporting will also fall into here. So we've got a lot of work to do. Hopefully the timing works out.
+The test space. So this was another deliverables that we had in the kick off that we wanted to start thinking about our test scenarios which will be Jenin Carolyn that identify those and then the test scripts.
+Diane Karen and Mike my lot in there will be back.
+Testing phase or sorry training phase.
+We still have to talk about this tomorrow, but so we'll get more clarity on this. But what is provisioned in the contract is that Forza will train the key team. So like the AP supervisor in AP team, and then they'll be a train the trainer, so that would be like.
+Could be.
+Diane Korean Mike.
+And then they would train new users or pass it off to the business. So we kind of have to figure all that out, but.
+That's still tomorrow.
+And then we talked about some Nam tentative gola dates and a pack. We did talk about it, so I don't think we have resolution on it, but that's that's OK.
+The decisions library will become a file that will be able to reference back, and it will include all of those items in red that we saw, and it looks like at this point the only decision that is outstanding is the one on the old trees.
+Nothing other than that. We made all the decisions we needed to make this week to move forward.
+And the last item is the parking lot, so.
+These are actually all about the Doctypes.
+I didn't really.
+Brian, you mentioned one about the agile reporting that will look at tomorrow. I'm sorry, not reporting.
+Agile this this goal out. Yeah so will look at that tomorrow, but the Owens.
+It was just we could look at it in the future that cross talk. Peace moving.
+They could become a piece.
+Technically.
+Oh, choose.
+I'm actually had mentioned something about that we already talked about it OFC. We can look at it as part of inventory project if it's been necessary. Oh, HNO W definitely inventory project. There are never voucher so it has nothing to do with this project.
+That's about it.
+So when we look at rap up activities, we went through notes. We talked about parking lot deliverables. There's a few outstanding things and it's really to do with the training, documentation and R.
+Project management strategy. That's all that's outstanding, and then the decision.
+The rest will become tasks on the project plan and.
+Will probably have a fairly.
+LG meeting next week to start building out some effort on what some of these tasks are going to take to complete.
+And start plugging away.
+Any questions?
+Ask if we went live with a few vendors.
+How would that impact when we say random payment run? Some vendors would not come off on our payment running some. What is that?
+Now I understand it now.
+Came in processes changed at all through any of this?
+But if you go with that agile strategy.
+You know whatever goes at the end of the day, as long as it ends up as a voucher, whether it was through scanman or some other method within a status, your payroll will pick it up.
+The idea would be that you just have to processes expensive, but you try, you try to go live with something as fast food chain, so there's no reason not to go live with, for instance, quick vouchers.
+Right, that's the very first were gonna do testing you go live with that. Everything else is still follow the same process. It's going to get processed the same way it was before. We've already got some things moving through the system, so you're getting used to it faster. It's 01 to manage to make sure all the stuff is working in training users.
+So you can get some of that stuff moving faster than I was. The only.
+Only reason to do that, and then you're not trying to go along with everything all at once.
+So tomorrow we still have our consultants in our Australian team here for the morning, so will be down here in this in the board room. So if there's any questions from the business or you want to do any testing on anything will be here unless we have meetings somewhere else, but I think the majority of us will be down here until at least noon, if not a little bit later so.
+We need to schedule any more sessions we can do that.
+OK, well if there's no other questions then we will end the call. An will do will have the rap up at 4:30. Will kind of just go through.
+At the same, a little bit just for anyone. In addition that calls in if no one different calls in, we won't do it. I actually have a question. Yeah, it's about document storage, so when the invoices are.
+And are put through the Scanman where.
+Can someone like myself is not an ATV?
+Some processing.
+Pick up those invoices. Like I know there was talks about it being a supplier Ledger, but is there like a mass storage site for all invoices that have been put through the scanman? Or is it only going through the supplier voucher?
+Without really supplier letter that there.
+This morning we talk about whether they would be stored in JD, the incense, or whether we can store them in share point, but we still have a collective.
+Cloud or something just in the Explainer. It's going to be stored where attachments activity, which is on a network drive similar sensor.
+OK, but that won't impact Melissa. She would be able to see them wherever you destroyed by. Correct, there's still going to be.
+Unmastered place for all of it. Not just going to take these individuals the fire number. I guess I'm just trying to visualize.
+And all the paper goes away.
+How is she gonna find it if she doesn't? If she's looking for it? Yeah, like, do I go?
+Yeah, well, that's probably the easiest, yeah?
+'cause you looking for a vendor in an invoice number or a vendor an invoice date?
+That will be stored.
+There won't be like the receiving document or.
+You're connected now, how do you do it now?
+Well, the invoiced.
+But like when we file, we filed the invoice with 13 documents on the bathroom hard copy with the check.
+Yeah, yeah you can also check it in the system.
+When you are, you supply a letter you can click.
+To the receiving documents and you can Click to the purchase order.
+And not, and I'm not sure if you schedule receiving documented now.
+Can I just ask her in the same by sort of is that?
+It's not something that's come up already.
+Time it runs very paper bag.
+How does that happen with now? 'cause obviously everybody scared into the system.
+How do we go about doing now?
+Right now everything is paper based, so we've got whichever Department they check it.
+From your reports to the paper that you, what Department would be checking up on their run?
+That's part of it.
+Find it.
+Yes, what is review?
+Mine is it's very painful based so you gotta check in what you want to pay. Again. It's like all the paper like that you've got to make sure there aren't any errors and stuff on it. I know obviously in the real world you don't want areas, but it could happen. So how does that?
+I think, Jenn, I think that's something we take off line and look at are processed once we see how it's getting out from the system. I think that is the payment as Bryant. Everything we need to just the same changes based on this tomorrow and then reconfigure around that it's paper based mode because this paper. So we got to make another look at that and say how do we reconfigure that from being processed?
+In theory, if you look at.
+You know standard best.
+Practice in JD Edwards. You would first run that cash requirements report. Review it. OK? We don't want to pay them. We forgot this supplier. Make your changes. Rerun the cash requirements report. That's what I would expect. My check run to be or FT run whatever.
+Go through the payment process soon as you do update.
+You know the out spit your JD reports? Do a compare. First of all, in theory it should be to the penny, right?
+If you then started to meet, if you then needed to start looking into the details, I would think at that point it's it's either spot checking, you know exceptions, and really you would just go online.
+Right?
+How's it file?
+So here if you go to the invoice and stuff like that, how is it going on?
+By supplying you would go into your payments inquiry screen. Right from there, pull up the check the FT and get your list of suppliers and vouchers that have been paid from that and then from there you're essentially spot checking.
+Physical invoices have a scan is connected to your supplier list.
+Close all the way through from your payment. Run right through to your supplier Ledger so.
+To your point, listen your public thinking about audits for an audit right now. Right now the auditors will go into our supplier Ledger an they will pull a listing of invoices that they want to see with the backup.
+So at this point in time we were going to have to look at how are they going to view those invoices, 'cause the paper won't be there.
+And maybe that is our auditors are reviewing them online in the supplier Ledger Enquirer. This is the part where we should just take.
+You know we're doing this. This is the part you take invoice saying they were changing this this is. This is what we think that we processes in. Which is you're not going to audit this anymore 'cause there's no reason to get some paper. You gotta look at. They wanna look at OK are the.
+Are the workflows working? Don't want the system approval process working, that's what they should care about right there. A longer care about looking at the individual things they care about is the system actually work and that's it. They should sign off on it with everyone improve.
+Did everyone have hurt?
+Approval process and we had that on Rebecca's list that we've got processed in the window that there's something that was one of the things that I believe something else that we need to take off line with.
+With them with David Bell, it doesn't work. We're basically going to rewrite that entire control.
+If it needs to be non discretionary.
+Yeah, but the process has to work the same all the time.
+And that will save Melissa tons of time of hate looking at paper.
+Right?
+And now have you domain right? They have it today. Dollar view access. They can go employee. Why does not have to ask?
+No, but again the control would be rewritten and it would apply to external entropy internal.
+What?
+They're just taking that from the white to say yes, or controls are working, but there still selecting.
+I'm just trying to understand where that data is going to now be restored and how it would asked access it.
+You would go to the supply letter.
+And there's no way to see.
+On a specific date in scanman, what invoices were processed at talking?
+Yeah, because there's a date.
+Access by day.
+You can access by date.
+In salmon and see the invoices they were going straight here supplier measure would still be there for you to say all of these guys are in via supplier number. What I'm saying is is there.
+Page.
+And still see them.
+Vendor.
+Anymore questions.
+I think knowing what the auditors are going to want.
+As this new process gets.
+For online.
+This is the time for us to find that out so that when when year end comes around next January were not scrambling to say, or the auditors want this, and we've got no sense and no time to turn that around.
+OK.
+An outsourced take. Some of this and say This is with the new system does.
+These are things we can do with it.
+OK, but it's not just. The invoices are recommendation for the yeah, I know, but we're not starting with Y right? We start with Dolly.
+And we had to get the design based on 1st design. The control is going to be and what they're going to look at.
+And then we take that which he why? This is the new process. Please let us know if there are any problems and then we have CRA PST audits and all those kinds of others as well. But we have to think about.
+Right, but what are the things that?
+Delete were you I would ask for.
+Forman accounts payable POV during the course of an audit today.
+There's various for AP. I mean I can't fix Australia, but they're if you double voucher so they report review the double voucher report to make sure that it's dual like one person is running. This is an's report and someone else is posting and sign off on number for report and valuating it. That's one people so we're no longer printing those or reviewing them and we're allowing group to go straight to the payment so that's a control that now we have to understand.
+Where are they going to get their comfort level?
+Table in Jenison, one that I'm standing.
+We need to understand.
+Testing testing is that an entered it correctly and somebody else is posting it to say Yes an entered it correctly with Scanman.
+It will always enter it correctly and and is now the person who saying yes. This is entered correctly.
+We are reader. Put it through and that electronic signature will be in Scanman.
+Select
+so when you finish checking, so OCR is reading it and Ennis checking.
+But I'm just saying.
+This doesn't engage with here today, but for sure we need to pull those controls to see what is now going to get deployed. That new comfort level. And again, I think.
+Order a lying. Beloit someone on those two were 15 years behind on this other people have been doing this for a long time. This is not good at.
+This.
+Yeah, I was just going to suggest that we pulled the list of.
+The Master AP controls the.
+You keep controls that we rely on for socks.
+And have a sub team go through and say this is a candidate that's a candidate. This one stays the same. That kind of thing.
+Yes baby and then bring it back to the bigger group or something like that.
+1st Order.
+No, in general we have touch controls.
+We have a process, but we don't have it activated for the other monkeys, but started Geneva could activate that so you could have another step to say that person creative answer could be scanman someone.
+Someone else.
+And then also in.
+And we have another table with set who have entered that. I'm gonna prove it and they had the time this time also and the status of the attached so. But actually we scanman we have more controls because more things will automatically. So the an email is sent to Scanman and then either end or someone else is checking it and then it goes to approval flow.
+So someone needs to approve the transactions so you have more approvals than before before you have them on paper.
+So it's it's. It's more accurate actually than what you have now.
+So the best thing to do an is indeed the Sox approvals. See what they've checked and contact your contact Deloitte, but they want and work from there.
+So I made it a note for Rebecca 'cause she had to leave for an appointment that will add it to our or list that she had up here. That will create a sub team to start looking at the AP controls and.
+We're getting to the end of our design phase. We couldn't engage Deloitte before this, but we're almost at the end of our design phase within engaged in now.
+And every step, every step within the system is registered. Date time name. So and this often what I want to see.
+At least that's what I'm used to, that that's what they want to see.
+Anything else?
+Anything else?
+Yeah, I'll sit around the master control listed the way it works, right?
+Could you start with basic John? It's our controls, but it's like they they keep words.
+Becca, so we can put it with her and then distribute from there, yeah?
+You also have a heart.
+OK.
+That's it, nothing.
+Thank you.
+No thanks.
