@@ -2,6 +2,15 @@
 
 This page servers as a wiki for the research project documented in the paper: "Information Detection in Business Analysis Transcripts; an Ontology Approach", written by Boris Winter, Tjerk Spijkman and Sid Bansidhar. This project was executed for the Software Production course at Utrecht University. 
 
+## NLP Tool
+![](images/)
+
+## Code 
+The NLP tool that has been created was made in Python (.ipnyb), which can be found at: https://github.com/Bowis/keyextractor. It consists of 4 files: 
+- **splitter.ipynb**: this file is able to split the transcripts into multiple sentences, allowing further tokenization. 
+- **nltk.ipynb**: this file can be used to get some basic statistics of the transcript that is entered. 
+- **known.ipynb**: this file is able to match and count known terms (present in the ontology/ontology.txt file) that are present in the transcript that is entered. 
+- **unknown.ipynb**: this file is able to find possibly unknown terms in the transcript with the use of the Textblob package (https://textblob.readthedocs.io/en/dev/). 
 
 ## Dasbhoard
 The dashboard is an extension of the NLP tool created during the research. It visualizes the generated results in a concise manner, and allows business analyst and other users to quickly identify existing and unknown concepts in the uploaded transcript. 
