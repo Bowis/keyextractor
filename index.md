@@ -3,7 +3,7 @@
 This page servers as a wiki for the research project documented in the paper: "Information Detection in Business Analysis Transcripts; an Ontology Approach", written by Boris Winter, Tjerk Spijkman and Sid Bansidhar. This project was executed for the Software Production course at Utrecht University. 
 
 ## NLP Tool
-![](images/)
+![](images/bpmn.png)
 
 ## Code 
 The NLP tool that has been created was made in Python (.ipnyb), which can be found at: https://github.com/Bowis/keyextractor. It consists of 4 files: 
