@@ -3,6 +3,10 @@
 This page servers as a wiki for the research project documented in the paper: "Information Detection in Business Analysis Transcripts; an Ontology Approach", written by Boris Winter, Tjerk Spijkman and Sid Bansidhar. This project was executed for the Software Production course at Utrecht University. 
 
 ## NLP Tool
+The created NLP Tool is able to extract both known and unknown terms from a given transcript. 
+The extraction process starts with some initial text processing, where the timestamps are removed from the transcript document. Subsequently, two operations are executed simultaneously, for the known and unknown words. First, punctuation marks and stop words are removed from the text. Next, the transcript is split up conforming to the different speakers that are present in the transcript. For each speaker snippet, the script iterates through each word, matching it with the ontology. If the concept is found in the ontology, it will be added to the table. All tables will are then merged into one final table, containing all the ontology matches. 
+For the unknown words, the extraction process has some minor differences. Instead of matching the text to an ontology, the Noun Phrase property of the TextBlob package is used. This is a combination of words that occur together in a sentence and that are headed by a noun. Noun phrases can be useful for indicating what is being is discussed in a transcript and can possibly indicate a requirement. These noun phrases are added to the table for the associated speaker. Once again, all tables are merged for the final result. Before processing the text with the Textblob package, ontology matches are removed from the transcript, in order to prevent false positives.  
+
 ![](images/bpmn.png)
 
 ## Code 
@@ -13,10 +17,10 @@ The NLP tool that has been created was made in Python (.ipnyb), which can be fou
 - **unknown.ipynb**: this file is able to find possibly unknown terms in the transcript with the use of the Textblob package (https://textblob.readthedocs.io/en/dev/). 
 
 ## Dasbhoard
-The dashboard is an extension of the NLP tool created during the research. It visualizes the generated results in a concise manner, and allows business analyst and other users to quickly identify existing and unknown concepts in the uploaded transcript. 
+The dashboard is an possible extension of the NLP tool created during the research. It visualizes the generated results in a concise manner, and allows business analyst and other users to quickly identify existing and unknown concepts in the uploaded transcript. 
 
 
-A mockup of this dashboard has been drafted during the research project, which will be elaborated on in the following section. 
+A mockup of this dashboard has been drafted during the research project, which will be elaborated on in the following section. **Bare in mind, the following screenshots are a mockup, they do not represent a final, working softwarep product**.
 ### Upload Page
 ![](images/mockup-1.png)
 In the first screen of the dashboard, shown in the image above, the user is able to upload a transcript and a ontology file. The ontology file is used to match the transcript against. Once the user has uploaded both files, he/she can start the transcription process. 
