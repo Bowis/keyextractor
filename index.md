@@ -16,11 +16,12 @@ The NLP tool that has been created was made in Python (.ipnyb), which can be fou
 - **known.ipynb**: this file is able to match and count known terms (present in the ontology/ontology.txt file) that are present in the transcript that is entered. 
 - **unknown.ipynb**: this file is able to find possibly unknown terms in the transcript with the use of the Textblob package (https://textblob.readthedocs.io/en/dev/). 
 
-## Dasbhoard
+## Dashboard
 The dashboard is an possible extension of the NLP tool created during the research. It visualizes the generated results in a concise manner, and allows business analyst and other users to quickly identify existing and unknown concepts in the uploaded transcript. 
 
 
-A mockup of this dashboard has been drafted during the research project, which will be elaborated on in the following section. **Bare in mind, the following screenshots are a mockup, they do not represent a final, working softwarep product**.
+A mockup of this dashboard has been drafted during the research project, which will be elaborated on in the following section. 
+### Bare in mind, the following screenshots are a mockup, they do not represent a final, working dashboard.
 ### Upload Page
 ![](images/mockup-1.png)
 In the first screen of the dashboard, shown in the image above, the user is able to upload a transcript and a ontology file. The ontology file is used to match the transcript against. Once the user has uploaded both files, he/she can start the transcription process. 
